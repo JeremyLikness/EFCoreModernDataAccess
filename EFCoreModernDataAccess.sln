@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31213.239
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreModernDataAccess", "EFCoreModernDataAccess\EFCoreModernDataAccess.csproj", "{FDEAAC95-1863-4F75-9DDA-4061F113CE1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreModernDataAccess", "EFCoreModernDataAccess\EFCoreModernDataAccess.csproj", "{FDEAAC95-1863-4F75-9DDA-4061F113CE1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA425E87-07AF-42F6-AEDA-48F30EC76D62}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
