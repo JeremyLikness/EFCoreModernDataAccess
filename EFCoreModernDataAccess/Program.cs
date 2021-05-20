@@ -33,4 +33,8 @@ Console.WriteLine("Database loaded.");
 
 // ======================================================================
 // simple queries
-await SimpleQueries.RunAsync(options);
+// await SimpleQueries.RunAsync(options);
+
+// ======================================================================
+// advanced queries
+await AdvancedQueries.RunAsync(options);
