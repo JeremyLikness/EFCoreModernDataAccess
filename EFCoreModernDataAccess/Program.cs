@@ -1,4 +1,5 @@
 ﻿using EFModernDA.DataAccess;
+using EFModernDA.Queries;
 using EFModernDA.Seed;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -29,3 +30,7 @@ context.AddRange(sessions);
 await context.SaveChangesAsync();
 
 Console.WriteLine("Database loaded.");
+
+// ======================================================================
+// simple queries
+await SimpleQueries.RunAsync(options);

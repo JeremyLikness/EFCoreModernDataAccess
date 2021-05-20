@@ -10,7 +10,7 @@ Azure SQL
 Big Data
 Blazor
 C#
-Artificial Intelligence, AI
+Artificial Intelligence
 Azure Cosmos DB, Cosmos DB, CosmosDB
 Data Lake
 Data Science
