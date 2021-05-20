@@ -1,0 +1,863 @@
+[
+  {
+    "Name": ".NET Hot Reload \u0026 XAML Tooling Improvements for Client Developers",
+    "Description": "In this session we\uFFFDll dive into what\uFFFDs new and improved in Visual Studio tooling for .NET client developers who are building apps that target frameworks such as WPF, WinUI, WinForms and .NET MAUI. We\uFFFDll first cover XAML Tooling enhancements such as our continuously improving XAML Hot Reload across .NET MAUI, Xamarin.Forms and desktop. We\uFFFDll then jump into design-time data and data binding diagnostics and how these features when combined improve the end-to-end developer experience. Finally, we\uFFFDll go deep into the details around our newest inner-loop productivity scenario, .NET Hot Reload and how it will benefit almost all developers targetting .NET 6\u002B in their projects.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4688
+  },
+  {
+    "Name": "10 Steps Towards Global Data Compliance",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100-200\u003Cbr /\u003E\u003Cbr /\u003EData compliance in the modern technology landscape feels like a constantly moving target with different laws, rules, and regulations being passed locally, nationally, and internationally \uFFFD and it seems like more and more every day. The days when only some organizations or certain countries had to worry about data compliance are gone. It\uFFFDs everyone\uFFFDs problem NOW. \n\u003Cbr /\u003E\u003Cbr /\u003E\nThe good news is that it is possible to define a core set of processes that will help to enable your ability to assist your business, or government agency, in meeting these compliance requirements. This session will walk you through the 10 steps you need to implement in order to move your organization towards full compliance with any, or all, of the regulations we all now face. From identifying where your data lives to monitoring for compliance and all the steps in between, you can meet this challenge!",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4431
+  },
+  {
+    "Name": "ASP.NET Core Web API Best Practices",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4758
+  },
+  {
+    "Name": "Achieving SOC compliance with Microsoft Technologies",
+    "Description": "Join me in exploring how to navigate the SOC Type I and Type II compliance landscape using Microsoft Technologies.  Learn how we have used Endpoint Management, Azure Sentinel, Log Analytics, M365 Security and Microsoft Defender to implement our policies and procedures to pass SOC audits.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4664
+  },
+  {
+    "Name": "Azure Data Security",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E300\u003Cbr /\u003E\u003Cbr /\u003EWhen moving your data assets to the Microsoft Azure platform, you have numerous tools available to you to help secure and protect your data. Many of these tools are also available with SQL Server 2016 and onwards. This session will discuss how you can leverage Transparent Data Encryption, Always Encrypted, Row Level Security, and Dynamic Data Masking which are built into the database engine. In addition to native SQL features, there are additional built-in tools that you can leverage for Azure SQL Database ad Managed Instance. These include Advanced Threat Protection, Vulnerability Assessment, and Data Classification and Discovery. This session will explore the various tools and offerings so that you will have the knowledge to secure your data assets.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4656
+  },
+  {
+    "Name": "Azure Logic Apps - Deep Dive",
+    "Description": "\u003Cp\u003E\n  Want to learn about logic apps? Join in this deep dive session where Vaibhav will cover:\n\u003C/p\u003E\n\u003Cul\u003E\n  \u003Cli\u003EWhat logic apps are?\u003C/li\u003E\n  \u003Cli\u003EHow to create and deploy logic apps?\u003C/li\u003E\n  \u003Cli\u003EDifferent connectors types\u003C/li\u003E\n  \u003Cli\u003EDifferent trigger and action types\u003C/li\u003E\n  \u003Cli\u003EHow to connect logic apps to on-premises systems\u003C/li\u003E\n\u003C/ul\u003E\nHe will cover some demos as well as some best practices for using logic apps.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4675
+  },
+  {
+    "Name": "Azure Sentinel",
+    "Description": "This session will expose you to high and low level components of Azure Sentinel.  We will explore its integrations with log providers, alerting, incident management, 3rd party extensions, TAXII, REST APIs and integrations with the other M365 security portals and how deep linking can great simplify your SOC tasks.  Real world examples from our live deployment will be demonstrated.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4665
+  },
+  {
+    "Name": "Beyond The Basics - Building Reusable Code With Blazor",
+    "Description": "Stop writing the same code over and over again. With the reusable components in Blazor, you can make your projects simpler and your code processes more productive. Join Microsoft\u0027s Jeff Fritz from the .NET team as we learn about building components and even writing a few unit tests for Blazor",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4670
+  },
+  {
+    "Name": "Blazor Application State",
+    "Description": "Carl shows you the benefits of keeping application data outside components and pages, and how to do cross-component change notifications.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4660
+  },
+  {
+    "Name": "Blazor Progressive Web Apps",
+    "Description": "Carl shows you how to create a Blazor PWA and how to configure it for offline access and cached content.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4658
+  },
+  {
+    "Name": "Blazor \uFFFD Next Generation UI with .NET 6",
+    "Description": "Tired of Angular, Vue, and React? Ready for the next generation of web user interface that runs everywhere and you can build with your favorite programming language? In this session, Jeff Fritz is going to introduce you to Blazor - the next generation UI  framework from the .NET team. We\u0027ll see how Blazor works with Web Assembly, webservers, and hybrid applications to deliver a great experience for your users.  Blazor is the framework that allows you to build once and run it everywhere",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4669
+  },
+  {
+    "Name": "Build the Best Microservices with Project Tye and .NET 6",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4689
+  },
+  {
+    "Name": "Building Blazor Static Web Applications",
+    "Description": "SPA and PWA are abbreviations for the JavaScript elite, right?  Not anymore\uFFFD in this session, Jeff Fritz will introduce you to the Blazor Static Web Application template and the techniques you can use to build a Single-Page-Application with Blazor and Azure Functions. With CI/CD built in to the service using GitHub actions, we\uFFFDll see how productive you can be with an immediate configuration available to deploy to production. We\uFFFDll talk about some of the learnings in building a few applications with this inexpensive and cool Azure service.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4671
+  },
+  {
+    "Name": "Building Smarter Apps for Work using Microsoft Graph",
+    "Description": "More than 90% of the Fortune 500 does work that stores data in Microsoft Graph, so odds are high that you work for or with companies that could have smarter apps by integrating with Microsoft Graph APIs. Everything that happens in Microsoft 365 (think: Email, Users, Files, Calendars, ToDos) is accessible via Microsoft Graph REST APIs, so it enables you to build apps that are fully aware of an users\uFFFD work and professional connections in a way that was never possible in the past. In this session, you\uFFFDll learn how to easily get started with Microsoft Graph, how it helps create apps that increase productivity, and how it saves development time while delivering advanced, powerful features. Unlock your organization\uFFFDs data and help evolve the way work is done for a post-pandemic world.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4783
+  },
+  {
+    "Name": "Building a Data Lake with SQL Server",
+    "Description": "Data Lakes are the way to arrange massive sets of data through your organization for analysis at several phases. In this session, Buck Woody will cover what you need to know about Data Lakes, a process for moving the data through the zones they contain, and the right technology choice based on your requirements.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4618
+  },
+  {
+    "Name": "Columnstore Indexes are Ready for Production \uFFFD Are You Ready for Columnstore?",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100-200\u003Cbr /\u003E\u003Cbr /\u003EWhen the Columnstore index was introduced in SQL Server 2012, it had a lot of limitations so people dismissed it. However, those limitations have been removed and amazing enhancements have been added. Unfortunately, many people took one look at Columnstore (in 2012) and haven\uFFFDt been back. However, they are ready for production. And, now, it\uFFFDs time to understand exactly how these incredible tools can enhance your databases and your query tuning. Every release of SQL Server since 2014, including SQL Server 2019, has made Columnstore indexes more and more functional in ways that many people just haven\uFFFDt noticed. We\uFFFDll cover how Columnstore works, areas where it enhances performance and areas where it can hurt performance. We\uFFFDll cover how to maintain these indexes as well. Take the material you\uFFFDll learn here and immediately add this excellent tool to your database design and query tuning tool box.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4435
+  },
+  {
+    "Name": "Common Tasks for the Cloud DBA",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EUsing the cloud as a host for our precious SQL Server databases can seem scary at times.  With so many new features and ways to perform tasks, keeping up with all of the new technology can seem daunting.  However, the learning curve is not as steep as you might suspect, and all of the new cloud innovations can make your life as a DBA so much more efficient.  In this session, we will take a look at how Azure IAAS VMs and Azure SQL Database features can be used to accomplish some of your more common DBA tasks much more easily, and sometimes in a fraction of the time.  We will look at things such as Backup and Restore capabilities for databases using Azure storage as well as performance tuning options.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4446
+  },
+  {
+    "Name": "Convince the DBA to Support DevOps",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100-200\u003Cbr /\u003E\u003Cbr /\u003EYou know that using DevOps methodologies successfully can lead to massive improvements in your ability to quickly and safely deliver more and better functionality to your business. However, you have an old-school DBA who refuses to get on board with automation and a shift-left mentality. This session is specifically designed to give you the tools and the language you need to talk to your DBA in a language they\u0027ll understand. You\u0027ll be able to convince them that not only is implementing DevOps good for the organization, it will lead to a safer database environment. Get your DBA into the modern age using the knowledge from this session.",
+    "SessionStart": "2019-06-10T09:00:00-07:00",
+    "SessionEnd": "2019-06-10T16:00:00-07:00",
+    "Id": 4434
+  },
+  {
+    "Name": "Creating an API Layer for Blazor",
+    "Description": "Carl shows you how to create APIs and access them from Blazor applications. Topics include CORS, and advanced JSON issues.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4657
+  },
+  {
+    "Name": "Debugger/Diagnostics Tips \u0026 Tricks in Visual Studio 2019",
+    "Description": "Check out how you can use the debugger and profiling tools in Visual Studio 2019 more effectively on their projects via demos and real-world examples. Do you want to know how to debug your code faster? Tired of seeing printf() statements clutter your code? In this all-demo session, we\uFFFDll explore almost every aspect of the Visual Studio debugger, from old features to ones that are introduced in Visual Studio 2019. Whether you\uFFFDre new to Visual Studio or have been using it for years, you\uFFFDre sure to learn some cool tips and tricks about how to expedite, customize, and improve your debugging experience!",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4754
+  },
+  {
+    "Name": "Design Strategy and ROI",
+    "Description": "Why bother with design? If your development team has no design strategy, then it\u0027s almost certainly leaving a lot of money on the table due to bad design, perhaps more money than your entire software development budget! In this session, you\u0027ll see how to estimate the amount of money bad design is costing you, using a spreadsheet with real-world formulas. From lost productivity to unnecessary errors to bad decisions to time lost in training, you\u0027ll see how to factor in the unnecessary costs and lost opportunity of bad design, in a form that your business-oriented colleagues can easily understand. The session will also outline the requirements and steps to help you create your own organization\u0027s design strategy, bringing together all the roles in software development towards reaping the impressive benefits of good design.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4662
+  },
+  {
+    "Name": "Desktop Apps Your Way",
+    "Description": "Most modern-day developers love to work with bleeding-edge technologies. Unsurprisingly, .NET developers are invested in Blazor or Xamarin/MAUI. JavaScript developers swear by their beloved JS frameworks. But customers or enterprise business workflows often demand Windows or macOS Desktop apps. What gives? There are a lot of ways to reach desktop audiences and modern technologies can easily cross over boundaries in non-traditional ways. The desktop is here to stay, and in this session, you will see how modern technologies provide lots of ways of bridging the gap.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4638
+  },
+  {
+    "Name": "EF Core for Modern Data Access",
+    "Description": "Take complete control over data access from .NET. The Entity Framework Core team has been hard at work in collaboration with the open-source community implementing the top requested features. The release of EF Core 5 brought many-to-many, table-per-type, filtered includes, split queries and many other major features. EF Core 6 is on track to match Dapper in performance benchmarks and provide even more flexibility with support for JSON columns, SQL temporal tables, migration bundles and compiled models. Join Jeremy on this tour of EF Core and learn how to use the latest features with hands-on demos featuring different providers from SQLite to Azure Cosmos DB.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4684
+  },
+  {
+    "Name": "Get More Out of C# - Learn more about the underused features of C# 9",
+    "Description": "C# has added some awesome new features in the last few years that will make you more productive, your code more secure, and faster. In this talk we\uFFFDll review some of the under-used features in the current version of the C# programming language that you will want to use more in your current projects. We\uFFFDll discuss managing nullability, memory use, pattern matching and more.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4666
+  },
+  {
+    "Name": "Getting Started with 3D Printing (for Software Developers)",
+    "Description": "3D printing at a (checks notes) software developer conference? Yes! Whether you\uFFFDre compiling code or extruding plastic, at the core, many of us share the love of making something from nothing. But if you spend most of your time writing code, ramping up on the skills necessary to make things in the physical world can be intimidating. What printer should you buy? What software do you need? How do you troubleshoot? Can you make anything other than cheap plastic toys? If you\uFFFDve had a passing desire to try 3D printing, but have yet to pull the trigger, this session is for you. This is your primer on 3D printing that will help you learn the lingo, understand the challenges, and confidently take the next step into the world of making things.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4779
+  },
+  {
+    "Name": "Getting Started with Azure PostgreSQL Hyperscale",
+    "Description": "As companies continue to deal with dramatic data ingestion and storage concerns, scaling up hardware resources can only take you so far.  Once at that critical stage, the ability to scale out a relational database system becomes increasingly important.  In this session we will look at how the Citus extension in Azure PostgreSQL can be used to horizontally partition (shard) out a database.  We will look at the different use cases, table types, features, high availability , and implementation for horizontally distributing data.  This will be a demo-rich session, where we implement PostgreSQL Hyperscale and look at how we can efficiently load data, manage and query these horizontally distributed tables.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4405
+  },
+  {
+    "Name": "Getting started with DevOps on Azure",
+    "Description": "In this session the basics of DevOps as practices will be examined. Time will be spent helping you get started on moving your teams away from their traditional silos. The session with then move toward the tooling in Microsoft\uFFFDs cloud and how DevOps can be implemented for different types of deployments from IaaS to PaaS. Look for a demo filled session that will help jumpstart your move to DevOps in the Cloud. Takeaways:\n\n1. Learn Core Principals DevOps\n2. Discover the DevOps Tool Chain.\n3. Get jumped started on how to use DevOps tools in Azure.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4678
+  },
+  {
+    "Name": "Improving Availability in SQL Server and Azure SQL Database with Accelerated Database Recovery and Resumable Operations",
+    "Description": "Have you ever stared at your database wondering if that transaction will ever finish rolling back? Maybe you rebooted the server to see if it would help and then the database was in recovery for hours? Gave up on index rebuilds because you can\uFFFDt possibly get them done in a single maintenance window? If this sounds familiar, this session is for you! Learn about two innovations in SQL Server 2019 and Azure SQL Database \uFFFD Accelerated Database Recovery and Resumable Operations \uFFFD that will help you meet even the strictest SLAs by reducing startup and maintenance time and increasing up-time.",
+    "SessionStart": "2019-06-09T09:00:00-07:00",
+    "SessionEnd": "2019-06-09T16:00:00-07:00",
+    "Id": 4441
+  },
+  {
+    "Name": "Innovative Applications: Cloud meets AI",
+    "Description": "Abstract Coming soon",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4780
+  },
+  {
+    "Name": "Inside the Memory of SQL Server",
+    "Description": "In this session I\u0027ll describe how SQL Server memory management works including architecture, limits, and how you can configure and monitor memory usage. I\u0027ll also describe differences in memory management for SQL Server on Linux and Azure SQL. This is an advanced session with plenty of demos so a fundamental knowledge of SQL Server will help you get the most of this session.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4615
+  },
+  {
+    "Name": "Join the Spark Side: Give in to the power of Apache Spark for your data engineering tasks today",
+    "Description": "Abstract to Follow",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4679
+  },
+  {
+    "Name": "Lambda, lambda, lambda! Real-time \u0026 analytical workloads using Cosmos DB and Synapse Analytics",
+    "Description": "Abstract to Follow",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4680
+  },
+  {
+    "Name": "Level Up Your Applications with .NET 6",
+    "Description": "The .NET team is actively building the next version of .NET so that you can build next generation applications that run cross-platform in record time. In this demo-filled session with Scott Hunter, we\u0027ll learn about plans for light-weight Web APIs that allow you to write microservices faster. We\u0027ll talk about building cross-platform applications with .NET MAUI, and how you can bring your Blazor skills to the desktop to continue making awesome applications. Finally, we\u0027ll learn more about the productivity enhancing hot-reload features arriving for all development workloads with .NET 6",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4668
+  },
+  {
+    "Name": "Migrating to Azure SQL Managed Instance",
+    "Description": "Many SQL Server professionals today are looking to migrate to Azure. Azure SQL Managed Instance offers one of the best options to smoothly migrate a SQL Server instance to Azure. In this session, learn how to assess, migration, optimize, secure, and manage a migration from SQL Server to Azure SQL Managed Instance. We will show you the tools and best practices to make your journey to Azure a reality.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4616
+  },
+  {
+    "Name": "Move a successful SQL Server Transactional database to Azure",
+    "Description": "Abstract to Follow",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4681
+  },
+  {
+    "Name": "Multi-stage YAML Pipelines with Azure DevOps",
+    "Description": "Azure Pipelines supports continuous integration (CI) and continuous delivery (CD) to constantly and consistently test and build code and ship it to any target. It can be accomplished by defining a pipeline using YAML syntax or through the user interface (Classic).In this talk, Vaibhav will talk about what YAML is and the benefits YAML brings in over the classic UI based pipelines. He will then talk about how to build multi-stage pipelines using YAML in Azure DevOps using stages, jobs, tasks, dependencies, and conditions.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4674
+  },
+  {
+    "Name": "Next Level ASP.NET Core development with .NET 6",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4690
+  },
+  {
+    "Name": "Performance Tuning Techniques for Azure SQL Database",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200-300\u003Cbr /\u003E\u003Cbr /\u003EPerformance tuning is a crucial skill for Developers and DBAs when moving mission critical databases to the Azure. Cloud environments introduce new and interesting levels of complexity - such as purchasing models, compute and storage options, automatic scaling, and automatic tuning.  In this session, we will explore the different configuration options available for databases, how those options can affect performance, the tools available for performance troubleshooting, and some of the more common performance problems customers are faced with on their journey to the cloud.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4404
+  },
+  {
+    "Name": "SQL Server 2019 Big Data Clusters Architecture",
+    "Description": "Large sets of data from multiple locations are common-place in most organizations. You need a way to ingress, process, and serve that data with technologies from relational data queries through scale-out non-relational methods. Microsoft SQL Server\u0027s Big Data Clusters provide an on-premises or in-cloud method to store, virtualize, process, model and server data from any source. In this session, Buck Woody will show you how to plan, install and configure this new system.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4617
+  },
+  {
+    "Name": "SQL Server\u0026 Azure SQL Closing Panel Open Q\u0026A RunAs Radio Recording",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003EAll\u003Cbr /\u003E\u003Cbr /\u003EBring your remaining questions to our closing panel and have some great fun with this highly interactive and always entertaining session hosted by Richard Campbell of RunAs Radio.\u003Cbr /\u003E\nCheck out our past show recordings:\n\u003Cbr /\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/default.aspx?showNum=670\u0022\u003EFall 2019 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/default.aspx?showNum=648\u0022\u003ESpring 2019 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/default.aspx?showNum=619\u0022\u003EFall 2018 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://runasradio.com/Shows/Show/582\u0022\u003ESpring 2018 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://runasradio.com/Shows/Show/558\u0022\u003EFall 2017 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://runasradio.com/Shows/Show/536\u0022\u003ESpring 2017 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://runasradio.com/Shows/Show/506\u0022\u003EFall 2016 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/Shows/Show/474\u0022\u003ESpring 2016 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/Shows/Show/447\u0022\u003EFall 2015 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/default.aspx?showNum=423\u0022\u003ESpring 2015 SQLintersection Episode\u003C/a\u003E\u003Cbr /\u003E\n\u003Ca href=\u0022http://www.runasradio.com/default.aspx?showNum=397\u0022\u003EFall 2014 SQLintersection Episode\u003C/a\u003E",
+    "SessionStart": "2021-06-10T15:30:00-07:00",
+    "SessionEnd": "2021-06-10T16:15:00-07:00",
+    "Id": 4458
+  },
+  {
+    "Name": "SQL Server\uFFFDs Path Toward an Intelligent Database",
+    "Description": "\u0022SQL Server 2019 introduces ground-breaking query performance enhancements under the Intelligent Query Processing family. These enhancements make up the latest on Microsoft\uFFFDs mission to make critical parallel workloads improve when running at scale, while remaining adaptive to the constantly changing world of data!\n\nJoin us in the intelligent database world that started with SQL Server 2017 and takes a leap forward with the upcoming SQL Server 2019.\u0022",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4633
+  },
+  {
+    "Name": "TempDB: The Good, The Bad, and The Ugly",
+    "Description": "If you ask 100 SQL Server DBAs what their biggest headaches are, at least 99 of them will say something to do with tempdb. Over the years, there have been many different recommendations about configuration options for tempdb and they have changed over time. The behavior of tempdb has also changed over time. What hasn\u0027t changed is the criticality of tempdb and how its proper use and configuration can have major implications in the performance of your application. In this session we will discuss some of the improvements with tempdb in the latest versions of SQL Server and what good tempdb practices look like today.  We will also discuss the improvements in SQL Server 2019 that will unlock scalability of tempdb-heavy workloads now and into the future.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4438
+  },
+  {
+    "Name": "The Future of the C# Programming Language \uFFFD New Features in C# 10",
+    "Description": "With each new version of .NET, the C# language team is evolving the language and introducing new features to help you write your applications better.  .NET 6 is in preview, and a new version of C# is on the way.  In this session with the C# language designer, Mads Torgersen, we\uFFFDll talk about the upcoming features and the considerations behind them.  Be ready to participate in a discussion that will give you more insight into the evolution of the popular .NET language.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4667
+  },
+  {
+    "Name": "The Gentle Art of Interviewing Developers",
+    "Description": "If you rise high enough on a development team, you\u0027ll find yourself across the table from a candidate, trying to figure out if they can do the job you need and fit with your team. Today, you probably just read their resume and wing it. Wouldn\u0027t it be nice to go in with a firm idea of how to structure the interview, a set of proven techniques, and a list of questions you can choose from to probe the candidate in exactly the ways you need to? Billy Hollis has been interviewing developers for over thirty years and helping others learn how to interview them for over a decade. You don\u0027t really want to sit next to a mediocre developer for years, or have to look them in the eye and fire them one day, do you? Come and see how to avoid letting that next mediocre developer make it through your interview process.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4663
+  },
+  {
+    "Name": "The Ins and Outs of Identity in Azure",
+    "Description": "Join me for this session as we dive into identity in Azure. When working with the Microsoft cloud, identity is a core service. Without it, nothing would work. So, we\u0027ll start in the center of Azure Identity by looking at Azure Active Directory (Azure AD or AAD), the functionality it contains, adding users to it, and best practices around securing that core service. As we dive into the Azure identity space, we\u0027ll also take a brief look at some other identity services when it comes to Azure. We\u0027ll look briefly at Azure Active Directory Directory Service (Azure AD DS) and Azure B2C and how those fit into the Azure Identity story as well. We hope you\u0027ll join us for this trip in, out, and around Azure Identity",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4685
+  },
+  {
+    "Name": "Tips and Tricks for the PowerShell DBA,Part 1",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EJoin me in the quest to become a PowerShell DBA! Learn how to improve your career by quickly accessing information within a database rich environment. These tips will give you an advantage when leveraging PowerShell in your DBA career. I will cover some syntax, tricks calling functions and much more. Tips will include Arrays, HashTables, custom objects and much more. There are 2 parts to this session, the first part is syntax and PowerShell related items and the second part is all about SQL Server tips and tricks.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4493
+  },
+  {
+    "Name": "Tips and Tricks for the PowerShell DBA,Part 2",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EJoin me in the quest to become a PowerShell DBA! Learn how to improve your career by quickly accessing information within a database rich environment. These tips will give you an advantage when leveraging PowerShell in your DBA career. I will cover some syntax, tricks calling functions and much more. Tips will include Arrays, HashTables, custom objects and much more. There are 2 parts to this session, the first part is syntax and PowerShell related items and the second part is all about SQL Server tips and tricks.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4407
+  },
+  {
+    "Name": "Understanding SQL Server Backup and Restore",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EEveryone knows that it\u0027s critical to have backups but it\u0027s amazing how few people make sure those backups can be restored properly! Too many times to count, Tim has been brought in by organizations to help recover failed systems where administrators simply didn\uFFFDt know how to properly restore SQL Server backups when they have to. In this session, Tim will explain the various types of backups that can be taken and demonstrate how to restore each of them. Apart from covering the common full, differential, and log backups, Tim will also cover partial, filegroup, and COPY_ONLY backups, backing up to and restoring from a URL, backup encryption, and how to perform a hack attach for the ultimate tail log restore. There\u0027s something here for everyone to learn!",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4655
+  },
+  {
+    "Name": "Using Change Data for Monitoring and Diagnosing Azure Applications",
+    "Description": "- Introduction for Azure change analysis and resource graph\u003Cbr /\u003E\n- How to use change data combined with Diagnose and Solve problems and Azure Monitor to troubleshoot an issue \u003Cbr /\u003E\n- How to integrate Change data into custom alert and notifications pipeline \u003Cbr /\u003E\n- Using Change data in Azure workbook and other dashboard solutions (i.e. Grafana)",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4752
+  },
+  {
+    "Name": "What Developers Need to Know About Indexes",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E300\u003Cbr /\u003E\u003Cbr /\u003EIndexes are the cornerstone to every functioning SQL Server application. Well-designed indexes can make or break SQL Server applications. This session will cover the differences between the available indexes inside the SQL Server engine, including clustered and non-clustered disk-based indexes, Columnstore indexes as well as In-Memory OLTP indexes.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4451
+  },
+  {
+    "Name": "What\uFFFDs new in .NET Desktop",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4691
+  },
+  {
+    "Name": "Wouldn\u0027t it be cool and other bad design approaches",
+    "Description": "Most app development teams are still immature when it comes to UX design and creative product development. In this session, we\u0027ll see some examples of the mistakes that come from an immature understanding of design, ranging from the development of the F-35 fighter jet to the creation of Microsoft\u0027s Story Remix in 2017. We\u0027ll start with the danger of the phrase \u0022Wouldn\u0027t it be cool if...\u0022 as a red flag for potentially bad design, and then look at other ways developers and designers can be disconnected from their users and customers. This session injects humor into a tutorial on how *not* to do innovative design, along with alternative design techniques that promote innovation with value and resilience. Whether your team uses formal design or not, you\u0027re really doing design when you create an app, so here\u0027s your chance to avoid some serious mistakes while doing it.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4661
+  },
+  {
+    "Name": "Writing stateful functions in serverless environment using Azure Durable Functions",
+    "Description": "Azure Functions offer a serverless solution to run your code in the cloud without having to worry about the underlying infrastructure. In this session, Vaibhav will show how you can extend your Azure Functions programming model to write stateful functions using Azure Durable Functions. In this demo-rich session, he will show how you can define your stateful workflows using Orchestrator functions and stateful entities using entity functions. He will also cover different application patterns that you can utilize in your applications to benefit from Durable functions. In conclusion, he will also share resources for additional learning.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4673
+  },
+  {
+    "Name": ".NET Development Yesterday, Today and Tomorrow",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003ETrying to make sense of .NET Core and .NET Standard? Looking for ways to reuse your current .NET Framework code? In this session we will cover how you can take your existing .NET Framework code and reuse it in your .NET Standard/Core applications with ease.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4386
+  },
+  {
+    "Name": "A Gentle intro into NoSQL and CosmosDB for the ASP.NET/SQL Server Developer",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100\u003Cbr /\u003E\u003Cbr /\u003EDo you work on ASP.NET and/or SQL Server (or other RDBMS) full time? Have you ever wanted to dip your toes into the NoSQL world without having to install and configure a bunch of tools and services? This talk will .NET/SQL Server stack people on a journey through CosmosDB - the different models, use cases and selection criteria for each model, tips on modeling data, setup of local development environment, what SDKs and libraries to use and all of this information will be infused with tips and tricks from practical experience. Consider this a practical Cosmos DB crash course for ASP.NET and SQL Developers with a soft landing.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4380
+  },
+  {
+    "Name": "A Walkthrough of C#\uFFFDs Most Misunderstood Features",
+    "Description": "How do we choose between structures, classes and records? When is a local method a better choice than a private method? Is a Tuple just another name for an anonymous type? Some features of C# are tricky until you understand why they were introduced. A little background and some practical examples can bring to life a language rich with elegant syntax and cross-platform potential. In this session, we\uFFFDll cover some of the most misunderstood features, leaving you empowered to make the best architectural decisions in your code.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4647
+  },
+  {
+    "Name": "AI Quality Assurance Platform with .NET at BMW",
+    "Description": "In this session we will demonstrate how BMW and Orange Bees worked together to build an AI platform using .NET Core to take the manufacturing quality assurance process to the next level. We will discuss the complexities of the journey from prototype to industrialized solution. We will give an architecture and feature overview of the solution and show how this technology is used in a real-world production environment?.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4777
+  },
+  {
+    "Name": "ASP.NET Core Web API Best Practices",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EIt seems like most web apps these days require at least some web APIs. This session covers best practices on designing, versioning, testing, and securing your ASP.NET Core Web APIs.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4349
+  },
+  {
+    "Name": "Actors - The Past and Future of Software Engineering",
+    "Description": "The Actor Model is the latest fad to storm the software industry. But is there any substance behind it and why should you care? What are the drivers of the Actor Model and why have the large cloud vendors started offering Actor-based solutions? Juval Lowy puts it all together first by outlining the long-term trend in software methodologies that brought this 50-years old computational model to the fore, and how the demise of Moore\u0027s Law coupled with the rise of the IoT will force us to abandon sequential programming. Juval will examine the origin of the Actor Model; demonstrate Actors using conceptual examples, outline emerging design patterns, point out common misconceptions and conclude with his views on the future of the Actor Model.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4641
+  },
+  {
+    "Name": "Advanced GitHub Actions",
+    "Description": "GitHub Actions works well as a CI/CD system, but that is just the start, as it can do so much more. In this session, you\u0027ll learn some of the advanced concepts around GitHub Actions, such as creating your own custom actions, as well as see how GitHub Actions can be used for more than just CI/CD",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4650
+  },
+  {
+    "Name": "App Modernization and Migration from End to end, using data migration tools and Azure SQL",
+    "Description": "In this session, you\u0027ll learn about an end-to-end scenario that takes customers through the application migration process, and how that relates to the data migration. This demo heavy session will help you understand the Microsoft tools and services required in making such complex modernization engagements successfull.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4634
+  },
+  {
+    "Name": "Are We There Yet? \uFFFD The Quest for Quantum Computing",
+    "Description": "The race for Quantum Supremacy is on. The promises are spectacular, and the challenges, enormous. In this paradigm-changing quest, Microsoft is taking a bold approach based on what is known today as topological quantum computing.\u003Cbr\u003E\u003Cbr\u003E\n\nIn this session, we\u0027ll analyze the current state of Quantum Computing with a focus on Microsoft\u0027s approach. We\u0027ll touch on the essential topics, from the theory and the algorithms to the actual building of the physical systems. Examples based on Q#, Microsoft\u0027s QC programming language, will help you understand the patterns of interaction with this amazing and complex world.\u003Cbr\u003E\u003Cbr\u003E\n\nQuantum Computing is still in its infancy. It is complex, difficult to understand, and in many aspects, seriously counter-intuitive. At the same time, it is one of humankind\u0027s best bets for solving some of the most complex problems. This session will help you understand the current state of this spectacular field.\u003Cbr\u003E\u003Cbr\u003E\n\nAnd no, a quantum physics Ph.D. is not required to attend the session.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4193
+  },
+  {
+    "Name": "Artificial intelligence in an age of social responsibility",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4735
+  },
+  {
+    "Name": "Azure IoT State of the Union",
+    "Description": "In this session, you will be presented with the current state of affair in the IoT world. We will discuss the offering from Azure IoT in regards to IoT Hub, IoT Central, IoT Edge, Device Twins and many other important aspect of being successful with implementing IoT solutions. We will also touch on the importance of running AI \u0026 Machine Learning models on the Edge device.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4190
+  },
+  {
+    "Name": "Azure SQL Virtual Machine IOps, throughput, and Caching",
+    "Description": "Optimizing Virtual Machine storage is one of the most critical areas to master when considering a migration to Azure SQL Virtual Machine. Azure virtual machines have input/output operations per second (IOPS) and throughput performance limits based on the virtual machine type and size. The limits will vary widely depending on the series and the capabilities the virtual machines offer. Additionally, OS disks and data disks can be attached to virtual machines where these disks will have their own IOPS and throughput limits. Workloads can be limited at either the virtual machine or the disk level. In this session we demystify virtual machine storage and how VM sizing will impact storage performance limits. We will cover what you should consider when choosing Azure disks and storage pool configurations. Finally we will review how to monitor IOPs and throughput limits of your virtual machine, the underlying disks, and the caching capabilities of the ephemeral disks and the storage cache. Get ready, this is one of the most important sessions to get the best performance out of your Azure virtual machine deployment!",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4630
+  },
+  {
+    "Name": "Azure SQL Virtual Machine Overview",
+    "Description": "Running SQL Server in an Azure virtual machine gives you the same capabilities and experience you are used to with on-premises SQL Server, plus the additional ease of use and management benefits available only on Azure. In this session, we will discuss the SQL Server in Azure VM experience, including some new features of the SQL Server IaaS Extension that help you optimize cost, enhance security, improve manageability and increase uptime for your SQL Servers in Azure. Expect a focused session on best practices and proven methods to get the most out of your Azure SQL VM experience.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4626
+  },
+  {
+    "Name": "Azure SQL Virtual Machine Sizing Deep Dive",
+    "Description": "\u0022Typically, you choose a VM when your application requires more control over the computing environment than the other platform-as-a-service options offer. This can be due to vendor requirements, familiarity with virtualization, ease of migration and other scenarios. When selecting a virtual machine to host your SQL Server workload in Azure, you need to choose a virtual machine size that provides optimal performance and fits your organization\uFFFDs budget. In this session, we will cover topics such as the different virtual machine types that are most appropriate for SQL Server workloads, optimal memory-to-core ratios for various workload types, and features unique to Azure such as write acceleration that can help boost your performance without breaking the bank.\n\nWe will also cover the Azure Virtual Machine naming conventions and how you can quickly identify a given machines capabilities from the virtual machine series name. We will close out the discussion with a review of virtual machine disks and storage limits that will be a precursor to the next deep dive on Azure SQL VM storage.\u0022",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4629
+  },
+  {
+    "Name": "Azure SQL: What to use when",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100\u003Cbr /\u003E\u003Cbr /\u003E\nIn this session, you\u0027ll learn from members of the Microsoft Product Group the different options for your SQL deployments in Azure. \n\u003Cbr /\u003E\u003Cbr /\u003E\nAfter this session, you should be able to:\u003Cbr /\u003E\n\uFFFD Articulate the key differentiators between the Azure SQL deployment options (SQL Server in an Azure VM, SQL Managed Instance, SQL Database, Pools)\u003Cbr /\u003E\n\uFFFD Explain the different service tiers within Azure SQL, and evaluate what is best for your workloads and business requirements (Serverless, Hyperscale, General Purpose, Business Critical, etc\u003Cbr /\u003E\nYou\uFFFDll walk away with all the resources (including instructions on how to do all the demos on your own!)",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4613
+  },
+  {
+    "Name": "Best Practices with Azure Kubernetes Service",
+    "Description": "One of the hot topics in cloud today is Kubernetes, which has taken over as the container orchestrator of choice though it does have its many complexities. Join us to learn best practices that will enable you to get up and running on Azure Kubernetes Service, which is Azure\uFFFDs managed Kubernetes offering. We\uFFFDll highlight what\uFFFDs new with AKS as well as essential operational best practices and troubleshooting tips to ensure that you\uFFFDre setting yourself up for success when you run your next AKS cluster.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4492
+  },
+  {
+    "Name": "Bring Microsoft 365 Data into your .NET Apps",
+    "Description": "Microsoft Graph provides the ability to access Microsoft 365 data and Azure resources. In this session, you will see how to use the Graph API to build desktop, Web, and mobile apps that securely connect to people-centric data such as mail, calendar, contacts, and more.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4639
+  },
+  {
+    "Name": "Build Cross-Platform Apps with .NET MAUI",
+    "Description": ".NET MAUI is the multi-platform App UI for building native cross-platform apps with .NET for Android, iOS, macOS, and Windows. .NET MAUI is the evolution of Xamarin. Forms, building upon 7 years of experience supporting customers from independent developers to some of the world\uFFFDs largest companies. With .NET MAUI, we are improving the core of the product, speeding up UI rendering, investing in consistent design systems, vastly improving the developer experience, and extending from mobile to desktop. Join Maddy Leger, .NET MAUI program manager, as she describes the journey to .NET MAUI and what you can use in preview today!",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4644
+  },
+  {
+    "Name": "Build and Ship It",
+    "Description": "If you are like me, you have a lot of libraries, helpers, utilities that you have built over time that you use for multiple projects. You\u0027ve thought about publishing them to NuGet so you can share them with other projects or your team but didn\u0027t because they contain secrets, intellectual property, or aren\u0027t well documented. This is where Azure DevOps comes in. You can set up an Azure DevOps Artifact repository, private to you or your team, to securely store your packages and make them available to other projects and teams.\n\u003Cbr /\u003E\u003Cbr /\u003E\nIn this talk, we\u0027ll take a small .NET library, it doesn\u0027t just work with .NET, and build an Azure DevOps Pipeline to publish it in our Artifact directory.  With this pipeline, we will build the library, execute unit tests, sign the code using a Code Signing certificate, and finally deploy it to our own Artifact repository.\n\u003Cbr /\u003E\u003Cbr /\u003E\nAnd at the end of the talk, you\u0027ll have a pipeline, that you can add to the library, utility, and helper packages... with some small tweaks, when you are ready, to NuGet.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4333
+  },
+  {
+    "Name": "Building \u0026 Integrating Custom Skills into an Azure Cognitive Search AI Enrichment Pipeline",
+    "Description": "Knowledge mining is an emerging category in AI, which refers to the orchestration of a series of AI services to uncover latent insights in vast amounts of data. Custom skills provide a mechanism for developers to leverage customized rules and logic specific to their industry or organization. By integrating custom skills into an Azure Cognitive Search enrichment pipeline, teams can use the machine learning models they develop to enrich their data further. In this session, we examine the Web API custom skill interface for building custom skills and connecting those to an enrichment pipeline to benefit from the power of custom AI in Azure Cognitive Search.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4184
+  },
+  {
+    "Name": "Building Stateful workloads in Kubernetes",
+    "Description": "It\u0027s day 2. Kubernetes is running. You have your deployments and services set. Now how do you migrate the data store? Let\u0027s journey together on this code-focused tour through Persistent Volumes, Persistent Volume Claims, and StatefulSets. We\u0027ll craft and launch a strategy to care for your users\u0027 data in this new container world. You can power your business on Kubernetes: stateless or stateful.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4196
+  },
+  {
+    "Name": "Building an Azure Data Science Environment in Azure Synapse Analytics Workspaces Part 1",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200-300\u003Cbr /\u003E\u003Cbr /\u003EIn this double session, we will build an end to end data platform workload.  We will utilize the new Azure Synapse Analytics Workspaces environments to access Azure Data Factory and the Integrated Hosted Runtime to load data to a Data Lake, Azure Synapse Analytics and Polybase to ingest the data, Azure Synapse Spark Worker Pools and Python to generate additional data sets, and Power BI to visualize our results. We are using data provided by RetroSheets.org to create a dataset of play by play data and box scores for Major League Baseball games from 1922 to 2018. We examine how winning and losing seasons, home or away games, opponents, interleague play, and even temperature at opening pitch effect a team. We set out to discover the answer to questions every baseball fan wants to know!  What is the best day of the week to see your favorite team win?",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4399
+  },
+  {
+    "Name": "Building an Azure Data Science Environment in Azure Synapse Analytics Workspaces Part 2",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200-300\u003Cbr /\u003E\u003Cbr /\u003EIn this double session, we will build an end to end data platform workload.  We will utilize the new Azure Synapse Analytics Workspaces environments to access Azure Data Factory and the Integrated Hosted Runtime to load data to a Data Lake, Azure Synapse Analytics and Polybase to ingest the data, Azure Synapse Spark Worker Pools and Python to generate additional data sets, and Power BI to visualize our results. We are using data provided by RetroSheets.org to create a dataset of play by play data and box scores for Major League Baseball games from 1922 to 2018. We examine how winning and losing seasons, home or away games, opponents, interleague play, and even temperature at opening pitch effect a team. We set out to discover the answer to questions every baseball fan wants to know!  What is the best day of the week to see your favorite team win?",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4496
+  },
+  {
+    "Name": "Built for Speed: SQL Server Database Application Design for Performance",
+    "Description": "?Performance tuning: it\u0027s not just for DBAs! Many design decisions that are made early in the application lifecycle can have a dramatic impact on performance later on. Once an application is in production, correcting these issues may be time-consuming or even impossible without a complete re-write! In this session, we learn some of the considerations that you the developer should keep in mind when designing a new database application. Learn about some T-SQL best practices as well as how things like choice of data type, caching, looping etc. can affect the performance of your application before you even write your first query.?",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4637
+  },
+  {
+    "Name": "Composable Design",
+    "Description": "Over the past decades, the software development industry has carved out a massive core body of knowledge of software architecture and design patterns. And yet, fundamentally, our industry is not better off because of it, as it falls behind trying to cope quickly with ever-changing requirements and increased complexity, coupled with dwindling budgets and past mistakes. In this visionary session, Juval Lowy will articulate the root causes of the problem, propose a contemporary solution and predict the impact and infliction adopting his approach will have on the livelihood and prosperity of every software professional and business.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4640
+  },
+  {
+    "Name": "Custom Project Templates for .NET and Visual Studio",
+    "Description": "Creating project templates is a great way to make it easy for users to get started from a common starting point. In the past, it was difficult to create, and maintain project templates for .NET. Now it\u0027s very easy to get started with your own custom project templates. You can create a project template that can be used in the command line with dotnet new, Visual Studio 2019 and Visual Studio for Mac. Come to this talk to see how easy it is to create your very own project templates. We will cover creating single project templates as well as solution templates that contain several projects.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4643
+  },
+  {
+    "Name": "DevOps and Database: An Enterprise developer\uFFFDs guide",
+    "Description": "Database developers have special problems around schema tracking, testing, and deployment. As the team gets larger and the data gets larger, these problems get more complex. In this session learn Microsoft\uFFFDs prescriptive, proven, streamlined workflow for database developers using Azure DevOps and Visual Studio with SQL Server. These well-established Microsoft tools support a straight-forward and reusable blueprint to return sanity to your project processes with audit, validation, and automation.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4646
+  },
+  {
+    "Name": "Developers Welcome! For Azure AI \u0026 Machine Learning",
+    "Description": "You don\u0027t have to be a data scientist or a PHD holder to be\nproductive with Azure Machine Learning. In this session, we\nwill demonstrate the tools Azure offers for you to be successful\nin starting your journey into the world of Artificial Intelligence.\nWe will discuss the importance of big data in ML, and explore\nbest practices for analyzing trends and patterns. We will explore\nAzure ML, Azure ML services, Visual ML, Automated ML and Notebook based ML",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4191
+  },
+  {
+    "Name": "Docker for Windows Container Development",
+    "Description": "Abstract coming soon.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4652
+  },
+  {
+    "Name": "Don\u0027t miss the bus: Azure Functions, Azure SQL, Geospatial, JSON",
+    "Description": "Learn in this fun example about missing (or trying not to miss) the bus. Several Azure services and tools will be used, including Azure SQL Database, Azure Functions, Azure Web Apps, and more. You\u0027ll also see how different languages (Node, .NET, and Python) can be used to achieve the same goals. At the end, get the code to try it yourself.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4624
+  },
+  {
+    "Name": "Everything You Need to Know About Storing Strings in SQL Server and Azure SQL DB",
+    "Description": "As businesses and applications reach global scale, you know that SQL Server and Azure SQL can support international applications using Unicode. And you\uFFFDve been working with SQL Server for long, so handling and storing strings is not a mystery. Or is it? It depends \uFFFD it\uFFFDs all about knowing what\uFFFDs there, and making informed choices when you design the database. You think you knew everything about storing strings in SQL Database? Maybe not\uFFFD In this session you will learn about what Unicode encoding you want to use for your scenario, what are the performance differences, and even debunk a few SQL Server myths along the way.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4440
+  },
+  {
+    "Name": "Evolving your Xamarin.Forms apps to .NET MAUI",
+    "Description": "For Xamarin.Forms customers, .NET MAUI is really the next major version of the same product you know today. The process to upgrade to .NET 6 will be relatively simple, but there are some changes we\uFFFDre making to the project system and how controls are rendered that might require tweaks in your project. Join Maddy Leger, Xamarin/.NET MAUI program manager, to explore what upgrading Xamarin.Forms apps to .NET 6 looks like, how to take advantage of backwards compatibility, and where to get help if you need it during the upgrade process",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4645
+  },
+  {
+    "Name": "Feature flags: the toggle, the A/B test and the canary",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E100\u003Cbr /\u003E\u003Cbr /\u003EThe beauty of a feature flag is simplicity - it\u0027s a conditional block of code that chooses between different execution paths at runtime. In this talk, we will combine this simple concept with DevOps principles to perform powerful operations like separating code deployments from feature releases, canary releases, product owner-driven releases, testing in production, beta \u0026 A/B testing and even, kill switches. The demos and code samples will use open source libraries like FeatureToggle (C#) and SaaS products like Azure App Configuration and Launch Darkly. Learn how to achieve control and mastery over your deployments and releases with feature flags.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4379
+  },
+  {
+    "Name": "Getting Started with GitHub Actions",
+    "Description": "GitHub Actions enable you to create custom software development lifecycle workflows directly in your GitHub repository. You can create tasks, called \u0022actions\u0022, and combine them to create custom workflows to build, test, package, release and/or deploy any code project on GitHub. In this session, you will learn the ins and outs of GitHub Actions and walk away with workflows and ideas that you can start using in your own repos immediately.",
+    "SessionStart": "2021-06-10T09:00:00-07:00",
+    "SessionEnd": "2021-06-10T10:00:00-07:00",
+    "Id": 4649
+  },
+  {
+    "Name": "Getting into Azure Machine Learning DevOps",
+    "Description": "In this session, we will review the benefits of using Azure DevOps from Dashboards, Boards, Repos, Pipelines, Test Plans and Artifacts from the AI \u0026 Machine Learning perspective to manage data, models, training of models and deployments. More importantly, how to set Azure Pipelines for CI/CD of pre-deployment and post-deployment Gates to accomplish your end goal.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4208
+  },
+  {
+    "Name": "How to build a SaaS Service on Azure",
+    "Description": "The evolution of SaaS, driven by advancements in cloud-native technology, has fundamentally changed the software industry, and how it operates. Businesses are transforming using a SaaS model and delivering greater value to their customers than ever before. Are you ready to migrate your existing software products or upcoming solutions to be delivered as a service but simply do not know where to begin? In this session, we will discuss the steps to create or convert your software into a SaaS-based service.  In addition, we will cover recommended patterns and practices around SaaS platform architecture, microservices, multitenancy, onboarding, identity, security, automation, billing, and DevOps. Want more? We will also be covering the \uFFFDAzure SaaS Development Kit\uFFFD, a GitHub open-source project with everything you need to quickly begin building SaaS solutions on Azure.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4695
+  },
+  {
+    "Name": "Implementing Web Security in Your ASP.NET Applications",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EImplementing single sign-on or api security within your ASP.NET applications can seem like a daunting task. In this session we\u0027ll cover how to quickly and easily implement single sign-on and api security features in your applications using open source tools. If you\u0027re currently trying to implement security in your apps or are looking for ways to extend your current implementation, this is a session you\u0027ll want to check out.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4387
+  },
+  {
+    "Name": "Increase Productivity with Sandboxes and Stories",
+    "Description": "abstract coming soon",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4750
+  },
+  {
+    "Name": "Increase your .NET Productivity with Visual Studio",
+    "Description": "Abstract coming soon",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4772
+  },
+  {
+    "Name": "Introduction to Azure Arc enabled SQL Managed Instance",
+    "Description": "Are you interested in bringing the power of Azure to your datacenter? Azure Arc enabled SQL Managed Instance is an easy to deploy, scalable solution for running a versionless SQL Server on your terms. In this session, you will learn how Azure Arc allows you to deploy SQL Managed Instance in the Kubernetes platform of your choice in your datacenter or any cloud. See how you can connect to Azure for unified management, security, and billing.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4653
+  },
+  {
+    "Name": "Introduction to Azure Sphere",
+    "Description": "This session provides an overview of Azure Sphere ecosystem. Learn how Azure Sphere provides best in class security coupled with the power to run your custom-built high level IoT applications. You will also learn how to organize devices, build a simple High Level Application, and perform automated deployments.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4331
+  },
+  {
+    "Name": "JavaScript the Grumpy Parts",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E300-400\u003Cbr /\u003E\u003Cbr /\u003EWe love JavaScript, but we must admit: it\u0027s weird. Why does \u0060this\u0060 behave as it does? How does variable scope work? Why do we have such comical behavior when comparing mixed types? Let\u0027s pull back the covers of these scenarios, and learn how it truly works. You may find a new reason to fall in love with JavaScript.",
+    "SessionStart": "2021-06-10T14:00:00-07:00",
+    "SessionEnd": "2021-06-10T15:00:00-07:00",
+    "Id": 4346
+  },
+  {
+    "Name": "KEYNOTE: SQL Edge to Cloud",
+    "Description": "SQL is everywhere you need it from the IoT Edge to your datacenter to public clouds. With all of these options, it can be difficult to know which to choose and why each option may be right for your data needs. In this presentation, I\uFFFDll review with you all the current released and preview versions of SQL from the edge to the cloud. I\uFFFDll compare each of them and discuss why you want to get ahead of the curve by understanding what is possible with the modern SQL data platform. I\uFFFDll discuss the technical details of some of these options so you can understand what SQL \u0022flavor\u0022 fits your company\u0027s needs. This session will include some demos to highlight key innovations with SQL.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4635
+  },
+  {
+    "Name": "Knowledge Mining with Azure Cognitive Search",
+    "Description": "Knowledge mining is a technique for using AI to extract additional metadata from images, blobs, and other unstructured data. In this session, we review the process for intelligently extracting information from opaque documents using an Azure Cognitive Search enrichment pipeline. Pre-built and custom cognitive skills are used to enrich the search index, making the content more searchable and usable.",
+    "SessionStart": "2021-06-09T14:15:00-07:00",
+    "SessionEnd": "2021-06-09T15:15:00-07:00",
+    "Id": 4186
+  },
+  {
+    "Name": "Kubernetes for Developers",
+    "Description": "Docker provides an excellent way to \u0022containerize\u0022 applications. Kubernetes is popular open-source system for automating deployment, scaling, and management of containerized applications. Put them together and you can do some pretty phenomenal things. In this session, Dan Wahlin will discuss the role that Docker and Kubernetes plays in the developer workflow, describe key concepts such as pods, nodes, and deployments, and show how you can get started using both today. If you\u0027ve heard about Docker and Kubernetes but haven\u0027t made time to learn more about them then this is the session for you!",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4328
+  },
+  {
+    "Name": "Learn Azure SQL Database through Demos",
+    "Description": "Slides are very informative and useful, but sometimes you just want to see how it works! In this fast-paced, demo-heavy session, you\u0027ll first see how to deploy and configure Azure SQL Database. You\u0027ll then see some examples of the capabilities and tasks related to security (including Private Link), performance (including Automatic Tuning), availability (including failover times), and more. Even better, you\u0027ll walk away with all the materials you need to run through the demos yourself!",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4621
+  },
+  {
+    "Name": "Living on the Edge",
+    "Description": "In this session we will take a deep dive into IoT Edge. We will review scenarios where IoT Edge makes sense and identify the different roles this device may play in an overall IoT Solution. We will review current IoT Edge modules available in the Azure Marketplace, and learn to implement a custom module. We will finish this session with an overview of how deployments for IoT Edge devices are handled from the IoT Hub.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4329
+  },
+  {
+    "Name": "Look into your Application with Azure Application Insights",
+    "Description": "Azure Application Insights helps you to detect issues, diagnoses crashes and track your application usage in your application, both web, and mobile.\u003Cbr\u003E\u003Cbr\u003E\n\nLet\uFFFDs see how you can get alerts on performance and availability issues, monitor our applications usage and performance, get telemetry for our application without needing to redeploy the applications, search traces, and exceptions logs to figure out what is wrong. Oh, did I mention we can monitor Android, iOS, Windows Mobile applications as well as ASP.NET applications?\u003Cbr\u003E\u003Cbr\u003E\n\nWe\uFFFDll also take a look at how we can analyze request load, server performance counters and response times across dependencies. Get multi-dimensional analyzes over standard metrics or define your own. Diagnose exceptions, mobile application crashes, and failed requests, correlating with events and traces.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4337
+  },
+  {
+    "Name": "Machine Learning Decoded - Approaches and Classes of Algorithms",
+    "Description": "Ever felt lost when dealing with concepts like supervised, semi-supervised, unsupervised, or reinforcement learning? Ever felt like choosing the right class of algorithms to solve a problem is quite difficult? Do you feel the need to get a bit of a structure in the modern jungle of machine learning algorithms? If yes, this session is for you.\nWe\u0027ll discuss the top approaches in machine learning, and then we\u0027ll dive into analyzing various classes of machine learning algorithms. The focus will be on understanding the types of scenarios each class of algorithms addresses best.\nThe discussion is not intended to cover every single approach and class of machine learning algorithms that exist out there. Instead, we will focus on some of the most widely used scenarios in modern machine learning. Practical examples will help you better understand the specifics and characteristics of each approach and class.",
+    "SessionStart": "2021-06-08T10:30:00-07:00",
+    "SessionEnd": "2021-06-08T11:30:00-07:00",
+    "Id": 4194
+  },
+  {
+    "Name": "Machine Learning architectures using the Microsoft Data Platform",
+    "Description": "The Azure Data Platform provides multiple options for Machine Learning, from classical ml to deep learning, supervised, and unsupervised learning. Whether you prefer to write Python or R code with or work with no-code/low-code options in the Azure Data Studio tool, you can build, train, and track machine learning and deep-learning models in multiple interconnected technologies. In this session, Buck Woody will show you an example of each of these, and a process to choose the right technology based on your workload.",
+    "SessionStart": "2021-06-09T15:00:00-07:00",
+    "SessionEnd": "2021-06-09T16:15:00-07:00",
+    "Id": 4619
+  },
+  {
+    "Name": "Making Kubernetes How We Build Things",
+    "Description": "It\u0027s day 2. The corporate k8s cluster is humming. Everything works perfectly in a local environment, but how do you connect the wires? Your first few steps in Kubernetes may feel like walking through uncharted territory. Yet, several tools can make you just as productive as you were in your comfortable local setup. With only a few changes in your configuration, you can automatically rebuild clusters when a file changes and even debug software running in containers. Add this to some visualization tools and some templating software, and you\u0027ll be back on track very quickly. In this talk, you\uFFFDll learn how to use some open source tooling available around the Kubernetes ecosystem to become more productive and optimize for developer joy.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4197
+  },
+  {
+    "Name": "Making Your Best Development Environment",
+    "Description": "Come watch and listen to  Scott Hanselman spread the good word and demonstrate  developing software, most often on the Microsoft stack!",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4556
+  },
+  {
+    "Name": "Migrate it!",
+    "Description": "Technology is always changing. Lately, it\u0027s been changing fast. Microsoft has shown the road map for .NET which has major version releases every year. If you are like me, you have a few applications around running on .NET Framework but not sure how to \u0022upgrade\u0022, \u0022port\u0022, or \u0022migrate\u0022 to .NET. That\u0027s where this session comes in.\n\u003Cbr /\u003E\u003Cbr /\u003E\nIn this talk, we\u0027ll work on \u0022upgrading\u0022, \u0022porting\u0022, \u0022migrating\u0022 an ASP.NET 4.5 framework application that uses Web Forms to a modern ASP.NET Core MVC application.  During this migration, we\u0027ll explore some of the gotchas, some of the things you should watch out for, some of the new features of .NET, and more.\n\u003Cbr /\u003E\u003Cbr /\u003E\nAfter this talk, you will be better equipped to tackle that application migration, assuming you get budget and priority approval :)",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4344
+  },
+  {
+    "Name": "Plan, Accelerate and Secure your Azure SQL DevOps CI/CD Pipelines",
+    "Description": "As businesses strive for agility to grow faster and be more competitive, IT teams must accelerate their database change management and delivery processes while increasing quality and workload performance. In addition, they must ensure compliance with GDPR, CCPA and other regulations to protect personal information and sensitive data. \n\u003Cbr /\u003E\u003Cbr /\u003E\nWith the growing adoption of DevOps CI/CD processes within Azure, database and the resulting data integration change management tasks, as well as BI/reporting hub linkage, can now be automated to increase operational effectiveness.  \n\u003Cbr /\u003E\u003Cbr /\u003E\nBut to keep pace with this faster delivery model, the strategic planning lifecycle also must keep up in driving these changes to ensure the right level of semantic integration and governance for delivery. \n\u003Cbr /\u003E\u003Cbr /\u003E\nThe ideal Azure SQL DevOps CI/CD solution should provide automated enterprise planning and governance capabilities, plus be able to orchestrate, secure and continuously monitor database, data movement and BI/reporting hub linkage changes to dramatically shorten release cycles.\n\u003Cbr /\u003E\u003Cbr /\u003E\nThis session will show you how to strategically plan, accelerate and secure your Azure SQL CI/CD pipeline and improve business performance.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4677
+  },
+  {
+    "Name": "Publish an Angular App as a PWA",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EIonic and Angular have been together from Ionic\u0027s beginning to build great mobile apps. Sometimes you don\u0027t want or need to publish to the app store. Turning your mobile app into a Progressive Web App might be just the solution. In this session, we will quickly convert an existing Ionic/Angular app into a PWA and publish it to a major cloud provider, making it available to anyone at anytime, without dealing with the hassles of App Store submissions (or rejections).",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4376
+  },
+  {
+    "Name": "Resolve or Die: A Story of Promises",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EAngular Route Guards are great. Is the user authenticated? No? The guarded page won\u0027t load. Is the user authenticated, but not a member of the appropriate authorization group? Also denied. Route Guards make this easy. They follow the Single Responsibility Principle, can be mocked for unit testing, and all is right with the world. What about Route Resolvers? Where do they fit in? Route Resolvers are similar to the Route Guards, with a subtle difference. Instead of keeping the user from rendering the page, a resolver ensures that certain conditions are met before the route completes. Resolvers are typically used to preload data that a given page requires, before the page loads. But are they an anti-pattern? At the end of this talk, you\u0027ll know when to use a Resolver and when to choose something else.",
+    "SessionStart": "2021-06-08T15:45:00-07:00",
+    "SessionEnd": "2021-06-08T16:45:00-07:00",
+    "Id": 4375
+  },
+  {
+    "Name": "Running AKS in Production",
+    "Description": "In this session, you will go behind the lines of a real AKS deployment into production. Lessons learned about Infrastructure, Networking, Key Vault, WAF, and AKS will be covered. Learn how we locked down the deployment from the Network Security Groups to RBAC on the containers. You will see how Azure DevOps was used to create a true end to end CI/CD for both the Application and Infrastructure. Our pain, your gain\uFFFD Takeaways:\u003Cbr\u003E\u003Cbr\u003E\n\n1. Best practices for deploying production application with AKS\u003Cbr\u003E\n2. Use Azure DevOps pipelines and Terraform to manage an AKS deployment\u003Cbr\u003E\n3. Secure your AKS deployment",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4500
+  },
+  {
+    "Name": "RxJS Action and Data Streams: A Love Story",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EIt\uFFFDs an age old story of an RxJS data stream that is changed forever when it meets a wonderful action stream. The result has a magical effect on the application\uFFFDs views, which automatically adjust to every action. This session examines how to enhance your view\uFFFDs data so it can react to user actions and state changes, modifying the view accordingly. We\uFFFDll build an action stream using Subject and BehaviorSubject and combine that action stream with a data stream. As actions occur, such as a user selection, the data stream reacts and automatically updates the view based on the user\uFFFDs action.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4384
+  },
+  {
+    "Name": "Science of Great UI, part 1 (Efficiency in Thought \u0026 Motion)",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EExplore the how and why of great UI. If you believe you\uFFFDre not an artist, that UI is subjective, or that Great UI takes too much effort, then this session is for you. Learn how to enhance clarity, reduce visual noise, lower barriers to entry, and make your interfaces discoverable, responsive, and a pleasure to use. It\uFFFDs all about making customers satisfied, and this entertaining and information-packed workshop will show you how. Part 1 of 3.",
+    "SessionStart": "2021-06-09T09:00:00-07:00",
+    "SessionEnd": "2021-06-09T10:00:00-07:00",
+    "Id": 4370
+  },
+  {
+    "Name": "Science of Great UI, part 2 (Design Like a Pro)",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EGet a big boost on your UI skills. Regardless of whether you\uFFFDre building interfaces for watches, phones, tablets, desktops, elevators, automobiles, or interplanetary spaceships; you\uFFFDll learn how to expertly apply tools from the designer\u0027s palette to your designs. We\u0027ll discuss contrast, color, shadow, size, opacity, layout, proximity, borders, information dimension, symbols, and graphic languages. Part 2 of 3.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4371
+  },
+  {
+    "Name": "Secure Machine Learning with SQL Server",
+    "Description": "Microsoft SQL Server has multiple methods to create, train, and serve Machine Learning models. The advantages of using SQL Server for this process are that the data stays completely contained within the security boundaries of your SQL Server environment, your developers use familiar Transact-SQL statements to interact with the model, and Data Scientists use the tool of their choice \uFFFD Python or R to develop models. In this session Buck Woody, an Applied Data Scientist will lead you through the concepts of Machine Learning in SQL Server and show you two practical tutorials you can use at your organization.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4620
+  },
+  {
+    "Name": "Securing SQL Server Data in Azure DevOps Pipelines Deployments",
+    "Description": "Azure DevOps is quickly becoming the go to platform for Microsoft shops looking for a single vendor solution to digitally transform their development, test, and deployment life cycles. However, the classic database management tools like SQL Server Management Studio don\u0027t provide developers and DBAs with enough data integration into Azure DevOps Pipelines. Furthermore, securing production data in non-production databases often gets left out of the picture. \n\u003Cbr /\u003E\u003Cbr /\u003E\nIn this session we will review Azure DevOps, discuss how to empower DBAs and database developers to deliver higher quality code faster, and automate deployment of secure database environments while protecting sensitive information.\n\u003Cbr /\u003E\u003Cbr /\u003E\nDiscussion will be geared towards the SQL Server DBA or database developer interested in learning about automating their database deployments and code changes, using Azure DevOps and ApexSQL solutions from Quest.",
+    "SessionStart": "2021-06-08T12:00:00-07:00",
+    "SessionEnd": "2021-06-08T13:00:00-07:00",
+    "Id": 4776
+  },
+  {
+    "Name": "Shields Up: Securing your Azure Deployments",
+    "Description": "In this session, you will learn the many different ways Azure helps you to protect your deployments. Using a sample architecture you will learn how to use Azure\uFFFDs tools and implement defense in depth. This implementation will include security features including Networking, Firewalls, Key Vault, Managed Identity, RBAC, Roles, and Policies amongst others. Next, we will examine how to evaluate and monitor the environment which has been deployed.\u003Cbr\u003E\u003Cbr\u003E\nTools such as Azure Security Center, Azure Monitor, Log Analytics and Network Watcher will be introduced.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4499
+  },
+  {
+    "Name": "The Good, The Bad, and The Biased \uFFFD Is Your Model Playing Tricks on You?",
+    "Description": "Machine Learning is, without a doubt, one of computer science\u0027s fields that promised to change our way of life in a profound way. In many cases, it already does. Think about personalization, contextualization, autonomous driving, healthcare research, cybersecurity, and many more.\u003Cbr\u003E\u003Cbr\u003E\n\nYet there is a darker side to it, as well. There are aspects of Machine Learning that we do not fully understand yet. And there are ways in which Machine Learning could be misused to produce more harm than good. Out of these aspects, bias stands out as one of the most difficult to address. Whether it occurs in data or trained models, whether it\u0027s unintentional or intentional, it concerns both researchers and practitioners.\u003Cbr\u003E\u003Cbr\u003E\n\nThis session will discuss theoretical and practical bias-related issues and will help you understand where we are today. The most widely used techniques to detect and fight against bias will also be covered. As always, we\u0027ll use real-life examples and cases to provide a realistic and practical perspective on the matter.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4192
+  },
+  {
+    "Name": "The Science of Great UI, part 3 (Metrics and Business Case)",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EThink great UI/design is subjective? Is your organization reluctant to invest in improving user experience? See definitive methods, ranging from brain-dead simple to mind-blowingly high-tech to help you measure design quality. Learn how to find and use freely-available tools to analyze design quality. Mark will also show how to present a compelling business case to justify investment in great design. Part 3 of 3.",
+    "SessionStart": "2021-06-09T12:00:00-07:00",
+    "SessionEnd": "2021-06-09T13:00:00-07:00",
+    "Id": 4372
+  },
+  {
+    "Name": "Using Azure IoT Central to form a basis for your IoT Solutions",
+    "Description": "This session will provide an overview of the features available in Azure IoT Central as well as some pros and cons of the implementation. You will see how this SaaS solution can be extended for more complicated scenarios.",
+    "SessionStart": "2021-06-09T10:30:00-07:00",
+    "SessionEnd": "2021-06-09T11:30:00-07:00",
+    "Id": 4330
+  },
+  {
+    "Name": "Using Data Pipelines to Process Batch and Real-Time Data",
+    "Description": "Data pipelines funnel data from multiple sources, both batch and streaming, into a centralized location to facilitate the summarization and analysis of those data. Big data analytics is the process of combining large and diverse data sets with AI to create actionable insights. In this session, we will examine using Azure Databricks, Azure Data Factory, and various serverless technologies in Azure to create flexible and powerful data pipelines for AI.",
+    "SessionStart": "2019-06-10T09:00:00-07:00",
+    "SessionEnd": "2019-06-10T16:00:00-07:00",
+    "Id": 4185
+  },
+  {
+    "Name": "Using Git for Source Control",
+    "Description": "\u003Cstrong\u003ELevel: \u003C/strong\u003E200\u003Cbr /\u003E\u003Cbr /\u003EGit is a free, open source distributed version control system. It has become wildly popular as a way to not only manage source code, but also as a way of sharing code with others. In this session, you will learn the basics of using Git. You will get familiar with repos, committing changes, branching and merging. You\u0027ll see how to work with both new and existing projects, how to store your code in GitHub and how to work with Git in Visual Studio and Visual Studio Code.",
+    "SessionStart": "2021-06-08T14:15:00-07:00",
+    "SessionEnd": "2021-06-08T15:15:00-07:00",
+    "Id": 4214
+  },
+  {
+    "Name": "Web Live Preview",
+    "Description": "The Visual Studio team is working on a new feature for ASP.NET full framework apps that enables you to preview, in real-time, changes made to your web applications. Web Live Preview can also be used to design and edit your web application directly in the browser. If you are developing ASP.NET full framework applications, this is a session that you don\u0027t want to miss.",
+    "SessionStart": "2021-06-09T15:45:00-07:00",
+    "SessionEnd": "2021-06-09T16:45:00-07:00",
+    "Id": 4642
+  },
+  {
+    "Name": "What\uFFFDs New in SQL Server Tools for Developers",
+    "Description": "With a rapidly evolving data platform comes the need for rapidly changing tools. Learn about what\uFFFDs up and coming with tools and user experiences in this demo-heavy session from the SQL Server product team, highlighting Azure Data Studio, Jupyter notebooks, SQL database projects, and more.",
+    "SessionStart": "2021-06-10T10:30:00-07:00",
+    "SessionEnd": "2021-06-10T11:30:00-07:00",
+    "Id": 4651
+  }
+]

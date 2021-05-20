@@ -1,0 +1,404 @@
+[
+  {
+    "FirstName": "Anna",
+    "LastName": "Hoffman",
+    "Bio": "Anna Hoffman is a Data \u0026 Applied Scientist on the Azure Data team at Microsoft. Anna has a BS in Engineering  and MS in Analytics from Georgia Tech. Anna has worked in Microsoft Research, AI Engineering, and Microsoft Services in her time at Microsoft, spending several years working to democratize AI via tools and services like Azure Cognitive Services, Azure Machine Learning, and SQL Server (Machine Learning Services and Big Data Clusters). For the past few years, she is working on the Azure SQL product team and working to enable others with SQL. Anna is one of the authors of Practical Azure SQL Database for Modern Developers, available from Apress Media. Anna is also the host of Data Exposed, available on YouTube. You can follow her on Twitter at @AnalyticAnna.",
+    "SessionIds": [ 4360, 4613, 4614, 4615, 4616, 4627, 4635, 4458 ]
+  },
+  {
+    "FirstName": "Ben",
+    "LastName": "Miller",
+    "Bio": "Ben is a SQL Server Certified Master, MVP, author, speaker and mentor. He is a passionate member of the SQL Server Community for 15\u002B years.  Ben has worked in the field using SQL Server since 1997. He mainly works in the Enterprise DBA areas, including Clustering, Availability Groups and other forms of HA as well as SQL Server configuration and infrastructure setup. He is an advocate for using PowerShell for DBAs and blogs and speaks regularly on these subjects. He worked at Microsoft for 7 years in the SQL Server Support and MVP Lead roles. He is passionate about SQL Server, automation, and integration.\u003Cbr /\u003E\u003Cbr /\u003EEmail: ben@benmiller.net\u003Cbr /\u003EWebsite: \u003Ca href=\u0022http://www.dbaduck.com\u0022\u003Ehttp://www.dbaduck.com.com\u003C/a\u003E \u003Cbr /\u003EBlog: \u003Ca href=\u0022http://www.powershelldba.com\u0022\u003Ehttp://www.powershelldba.com\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022http://twitter.com/DBAduck\u0022\u003Ehttp://twitter.com/DBAduck\u003C/a\u003E \u003Cbr /\u003ESQL Server MVP since 2011; see Ben\uFFFDs \u003Ca href=\u0022https://mvp.microsoft.com/en-us/PublicProfile/4030644?fullName=Ben%20J%20Miller\u0022\u003EMVP Profile\u003C/a\u003E",
+    "SessionIds": [ 2743, 2969, 2971, 2972, 3203, 3331, 3332, 3808, 3735, 3996, 4117, 4137, 4179, 4407, 4493 ]
+  },
+  {
+    "FirstName": "Bill",
+    "LastName": "Baer",
+    "Bio": "Bill has been around or working on SharePoint for 15 years in the SharePoint engineering and product management teams. Bill pioneered the cloud strategy for SharePoint having worked on the design, architecture, and code behind Microsoft Managed Solutions which over time became BPOS, and ultimately Office 365. Today, Bill is a Senior Product Manager in search and AI at Microsoft in Redmond, Washington; previously a Hewlett-Packard Technology Solutions Group MVP with a background in storage and infrastructure engineering. Bill Baer has deep industry experience having worked for Apple Computer Corporation, First Data Corporation, Digital Equipment Corporation, Compaq Computer Corporation, Hewlett-Packard, and Microsoft Corporation. Catch up with Bill at http://www.wbaer.net",
+    "SessionIds": [ 4506, 4735, 4736 ]
+  },
+  {
+    "FirstName": "Billy",
+    "LastName": "Hollis",
+    "Bio": "Billy is internationally known for his work on user experience design and native software development. His team, based in Nashville, Tennessee, has created modern apps hailed around the world for innovation and effective use of advanced user interface technologies. Billy has also been training on XAML technologies for over eight years, including some of the first classes available on the Universal Windows Platform. Billy is a Microsoft Regional Director, an MVP for Windows Development, and was named a Software Legend in 2002. You can see Billy at major conferences all over the world, usually doing sessions to help developers to become more focused on designing and developing software that users love.",
+    "SessionIds": [ 3212, 3280, 3635, 3700, 3852, 4661, 4662, 4663 ]
+  },
+  {
+    "FirstName": "Bob",
+    "LastName": "Ward",
+    "Bio": "Bob Ward is a Principal Architect for the Microsoft Azure Data team, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 27\u002B years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2019 including Azure SQL. Bob is a well-known speaker on SQL Server and Azure SQL, often presenting talks on new releases, internals, and specialized topics at events such as Red Hat Summit, SQLBits, SQLIntersection, Microsoft Inspire, Microsoft Ignite, and many different virtual events. You can also learn Azure SQL from him on the popular series https://aka.ms/azuresql4beginners. You can follow him at \u003Ca href=\u0022https://twitter.com/BobWardMS\u0022\u003E@BobWardMS\u003C/a\u003E or linkedin.com/in/bobwardms. Bob is the author of the books Pro SQL Server on Linux, SQL Server 2019 Revealed, and Azure SQL Revealed available from Apress Media.",
+    "SessionIds": [ 4360, 4613, 4615, 4616, 4625, 4627, 4635, 4653, 4458 ]
+  },
+  {
+    "FirstName": "Bradley",
+    "LastName": "Ball",
+    "Bio": "Bradley Ball is a Sr. Azure Engineer for the Azure FastTrack CXP PG at Microsoft, and uses his knowledge of data platforms to help onboard customers to Azure while working with Product Groups to refine Azure\uFFFDs Data Services. He is the FastTrack Service Lead working with the Azure Synapse Analytics PG \u0026 on the team working with the Azure Arc PG. He\uFFFDs done some cool things like working as a Defense contractor for the U.S. Army and the Executive Office of the President of the United States for the Obama Administration. Prior to joining Microsoft he was a Data Platform MVP, a frequent presenter at conferences and community events world wide, and an author of two books and many articles on SQL Server. He is passionate about enabling anyone using data to achieve greatness.",
+    "SessionIds": [ 4399, 4496 ]
+  },
+  {
+    "FirstName": "Buck",
+    "LastName": "Woody",
+    "Bio": "Buck Woody is an Applied Data Scientist working on the Azure Data Services team at Microsoft and uses data and technology to solve business and science problems. With over 39 years of professional and practical experience in computer technology, he is also a popular speaker at conferences around the world; author of over 700 articles and nine books on databases, machine learning, and R, he also sits on various Data Science Boards at two US Universities and specializes in advanced data analysis techniques. He is passionate about mentoring and growing the next generation of data professionals.  \u003Cbr /\u003E\u003Cbr /\u003E\nTwitter: \u003Ca target=\u0022_blank\u0022 href=\u0022https://twitter.com/BuckWoodyMSFT\u0022\u003Ehttps://twitter.com/BuckWoodyMSFT\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca target=\u0022_blank\u0022 href=\u0022https://www.linkedin.com/in/buckwoody\u0022\u003Ehttps://www.linkedin.com/in/buckwoody\u003Ca/\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 4617, 4618, 4619, 4620, 4635, 4458 ]
+  },
+  {
+    "FirstName": "Carey",
+    "LastName": "Payette",
+    "Bio": "Carey Payette is a Senior Software Engineer with Trillium Innovations (a Solliance partner), an ASPInsider, Progress Developer Expert and a Microsoft Azure MVP. Her primary focus is Cloud integration and deployment for the web, mobile, big data, AI, machine learning, and IoT spaces. Always eager to learn, you will find her tinkering regularly with various sensors, microcontrollers, programming languages, and frameworks. Carey is also a wife and Mom to three fabulous boys.   \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: cpayette@solliance.net\u0022\u003E cpayette@solliance.net\u003C/a\u003E \u003Cbr /\u003E Twitter: \u003Ca href=\u0022 https://twitter.com/careypayette\u0022\u003E https://twitter.com/careypayette\u003C/a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3347, 3348, 3349, 3389, 3639, 3657, 3658, 4008, 4009, 4010, 4005, 4192, 4193, 4194 ]
+  },
+  {
+    "FirstName": "Carl",
+    "LastName": "Franklin",
+    "Bio": "Carl Franklin is Executive Vice President of App vNext, a software development firm focused on the latest methodologies and technologies. Carl is a 20\u002B year veteran of the software industry, co-host and founder of .NET Rocks!, the first and most widely listened to podcast for .NET developers, a Microsoft MVP for Kinect for Windows, a Microsoft Regional Director, and Senior Executive of Pwop Studios, a full-service audio and video production/post production studio located in Southeastern Connecticut.",
+    "SessionIds": [ 4574, 4575, 4657, 4658, 4659, 4660 ]
+  },
+  {
+    "FirstName": "Catherine",
+    "LastName": "Wang",
+    "Bio": "Senior Program Manager for Visual Studio Azure Developer Experience team\n\u003Cbr /\u003E\u003Cbr /\u003E\nCurrently driving the experience and technical design, and customer development for the following products:\u003Cbr /\u003E\n\uFFFD Azure Diagnostics\u003Cbr /\u003E\n\uFFFD Azure Security tooling\u003Cbr /\u003E\n\uFFFD Microsoft Azure Storage Explorer",
+    "SessionIds": [ 4752 ]
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Lamanna",
+    "Bio": "Charles leads the Engineering teams for the Low Code Application Platform (LCAP) in the Business Applications Group. The LCAP team includes the Dynamics 365 platform, Power Apps, Power Automate, Power Virtual Agent, AI Builder and the Common Data Service products. \u003Cbr\u003E\u003Cbr\u003E\nUnder his leadership, the Dynamics 365 service moved to Azure and evolved into a fully managed SaaS\uFFFDon a single version, with regular updates. The Dynamics 365 platform is now one of the largest fully Azure hosted SaaS products in the world, deployed to over 30 datacenters and supporting the entire Dynamics 365 business.\u003Cbr\u003E\u003Cbr\u003E\nBefore that, Charles worked in Azure for 4 years, leading the engineering teams that created Azure Resource Manager, Azure Autoscale, Azure Logic Apps, Azure Activity Logs and several other management related capabilities. Before Azure, Charles founded MetricsHub, one of the first offerings for public cloud cost management and service health monitoring. MetricsHub was acquired by Microsoft in 2013.",
+    "SessionIds": [ 4593 ]
+  },
+  {
+    "FirstName": "Chris",
+    "LastName": "Givens",
+    "Bio": "Chris Givens (@givenscj), currently a resident in San Diego, CA, is an entrepreneur, architect, developer, trainer, author, speaker and Microsoft MVP that has worked in technology for over 21 years. He is currently a Sr. Cloud Security Architect for Solliance.net (@solliancenet) and maintains his CISSP, CCNP and various Microsoft cloud certifications. Chris is co-founder and vice-president of the San Diego SharePoint Users Group (@SanSpug) and is seen frequently at Microsoft conferences and SharePoint User Groups around the world including most recently Bejing, China and Havana, Cuba. Chris currently spends his time working on security related projects with Office 365 and Azure, as well as teaching Microsoft focused CISSP courses for government and large corporations. His corporate experience includes IBM, Avanade, eBay/PayPal, General Atomics, Granite Construction and various well-funded startups in the Pacific Northwest. In his spare time, he loves to use his security focused computer science degree to thwart state-actor based attacks! \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: chris@solliance.net \u0022\u003E chris@solliance.net\u003C/a\u003E \u003Cbr /\u003E Blog: \u003Ca href=\u0022 http://blogs.architectingconnectedsystems.com\u0022\u003E http://blogs.architectingconnectedsystems.com\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022 https://twitter.com/givenscj\u0022\u003E https://twitter.com/givenscj\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca href=\u0022 https://www.linkedin.com/in/givenscj//\u0022\u003E https://www.linkedin.com/in/givenscj/\u003C/a\u003E \u003Cbr /\u003E Office Server MVP; see Chris\uFFFDs \u003Ca href=\u0022 https://mvp.microsoft.com/en-us/PublicProfile/5000244?fullName=Chris%20Givens\u0022\u003EMVP Profile\u003C/a\u003E",
+    "SessionIds": [ 2869, 3549, 4039, 4040, 4041, 4501, 4579, 4580, 4664, 4665, 4672 ]
+  },
+  {
+    "FirstName": "Ciprian",
+    "LastName": "Jichici",
+    "Bio": "Ciprian is the CEO of Genisoft, one of the most innovative Microsoft partners in Romania. Ciprian is also the Chief Data Scientist of Solliance, one of the top worldwide Microsoft AI partners. He is recognized internationally as a Microsoft Regional Director and a Microsoft Most Valuable Professional for Artificial Intelligence. Cloud Computing, Artificial Intelligence, and Machine Learning are some of the key areas of his expertise spanning 20\u002B years of IT. Ciprian is also very passionate about quantum physics and consequently, about quantum computing.   \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: ciprian@solliance.net\u0022\u003E ciprian@solliance.net\u003C/a\u003E \u003Cbr /\u003E Blog: \u003Ca href=\u0022 https://ciprianjichici.ai/\u0022\u003E https://ciprianjichici.ai/\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022 https://twitter.com/ciprianjichici\u0022\u003E https://twitter.com/ciprianjichici\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca href=\u0022 https://www.linkedin.com/in/ciprianjichici/\u0022\u003E https://www.linkedin.com/in/ciprianjichici/\u003C/a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3347, 3348, 3349, 3389, 3639, 3657, 3658, 4008, 4009, 4010, 4005, 4192, 4193, 4194, 4336 ]
+  },
+  {
+    "FirstName": "Corey",
+    "LastName": "Crowley",
+    "Bio": "Corey Crowley is Co-founder and CTO at Orange Bees, a software development company. He has 23 years of professional experience and holds a Master\uFFFDs in Computer Science from Harvard University. He was actively involved in Orange Bees\uFFFD collaboration with BMW to build their AI quality system. Corey most enjoys his work when he\uFFFDs tasked with solving challenging problems that require unique or bespoke solutions. Outside of work, he enjoys IMSA and F1 racing.",
+    "SessionIds": [ 4777 ]
+  },
+  {
+    "FirstName": "Dan",
+    "LastName": "Patrick",
+    "Bio": "Dan is the Chief Infrastructure Architect for Solliance. He leads the DevOps and Infrastructure practice focusing on accelerating the customer\u0027s velocity to the cloud. Dan has been designated a Microsoft MVP (\uFFFDMost Valuable Professional\uFFFD), for Azure and is a 15-year veteran of Microsoft.  \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto:dan@solliance.net\u0022\u003E dan@solliance.net\u003C/a\u003E \u003Cbr /\u003E Twitter: \u003Ca href=\u0022 https://twitter.com/deltadan\u0022\u003E https://twitter.com/deltadan\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca href=\u0022 https://www.linkedin.com/in/danielrpatrick/\u0022\u003E https://www.linkedin.com/in/danielrpatrick/\u003C/a\u003E \u003Cbr /\u003E Website: \u003Ca href=\u0022 https://www.solliance.net\u0022\u003E https://www.solliance.net\u003C/a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3277, 3389, 3404, 3875, 3879, 4011, 4012, 4499, 4500, 4678 ]
+  },
+  {
+    "FirstName": "Dan",
+    "LastName": "Wahlin",
+    "Bio": "Dan Wahlin founded Wahlin Consulting (https://codewithdan.com) which provides training, architecture, and mentoring services on Web technologies such as Angular/React/Vue.js, Node.js, JavaScript/TypeScript, C#, ASP.NET Core, Web API, Microservices, Docker, and Kubernetes. He\u0027s also published multiple development courses on Pluralsight.com and Udemy.com. Dan is a Docker Captain, Google GDE, Microsoft MVP and Regional Director and speaks at conferences and user groups around the world.  Dan has written several books on Web technologies, hundreds of technical articles and blog posts (https://blog.codewithdan.com) and runs the \u0022Code with Dan Web Development Newsletter\u0022 - a great way to stay up on the latest technologies.\n\u003Cbr /\u003E\nTwitter: \u003Ca href=\u0022https://twitter.com/DanWahlin\u0022\u003E@DanWahlin\u003C/a\u003E",
+    "SessionIds": [ 4220, 4222, 4328, 4750 ]
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Pless",
+    "Bio": "David Pless is a Senior Program Manager in Azure Data, based in Titusville Florida. David has been with Microsoft since 2006 and is currently responsible on Azure SQL Virtual Machines with a focus on sizing, performance, and storage. David has supported on SQL Server performance tuning and optimization, Azure Data technologies, Power BI and SQL Server Reporting Services, and High Availability solutions. At Microsoft David has worked as a Technology Specialist as well as a Premier Field Engineer in Customer Support Services. Before Microsoft, David Pless was a MCS partner consultant and a Database Administrator in Norcross, Georgia. \n \u003Cbr /\u003E\u003Cbr /\u003E\nDavid is a Microsoft Certified Master (MCM) and has spoken at SQLSaturdays, SQLPASS, SQLintersection, Tech Ready, and regularly speaks at the local user groups in the Southeast.\n\u003Cbr /\u003E\u003Cbr /\u003E\nTwitter: \u003Ca href=\u0022http://twitter.com/dpless\u0022\u003E@dpless\u003C/a\u003E",
+    "SessionIds": [ 3205, 3207, 3324, 3325, 3338, 3645, 3648, 3756, 3995, 3997, 4132, 4133, 4626, 4629, 4630, 4180, 4178 ]
+  },
+  {
+    "FirstName": "Deborah",
+    "LastName": "Kurata",
+    "Bio": "Deborah Kurata is a software developer, speaker and Pluralsight author with a focus on C# and Angular. For her work in support of software development and software developers, she has been recognized with the Microsoft Most Valuable Professional (MVP) award and is a Google Developer Expert (GDE). Follow her on twitter: @deborahkurata",
+    "SessionIds": [ 4384 ]
+  },
+  {
+    "FirstName": "Dmitry",
+    "LastName": "Lyalin",
+    "Bio": "Senior Program Manager -- .NET, Xamarin \u0026 XAML Tooling",
+    "SessionIds": [ 4688 ]
+  },
+  {
+    "FirstName": "Dr. Adnan",
+    "LastName": "Masood",
+    "Bio": "Adnan Masood, Ph.D. is an Artificial Intelligence and Machine Learning researcher, Microsoft MVP (Most Valuable Professional) for Artificial Intelligence, and visiting scholar at Stanford University. As Chief Architect of AI and Machine Learning at UST Global, he collaborates with Stanford Artificial Intelligence Lab, and MIT AI Lab for building enterprise solutions. Nominee for technical professional of the year by orange county business journal, and recipient of Stevie\uFFFDs award for technical professional of the year 2019, Dr. Masood is an author most recently of \uFFFDCognitive Computing Recipes: Artificial Intelligence Solutions Using Microsoft Cognitive Services and TensorFlow\uFFFD, and \u0022Functional Programming with F#\u0022. \n\u003Cbr /\u003E\u003Cbr /\u003E\nDr. Masood is a regular speaker to various academic and technology conferences (WICT, DevIntersection, IEEE-HST and IASA), local code camps, and user groups. He also volunteers as STEM (Science Technology, Engineering and Math) robotics coach for elementary and middle school students. Dr. Masood is a co-founder and president of the Pasadena .NET Developers group, co-organizer of Tampa Bay Data Science Group, and Irvine Programmer meetup.",
+    "SessionIds": [ 3103, 3472, 3473, 3486, 3295, 3873, 3874, 3880, 4055, 4056, 4561, 4562 ]
+  },
+  {
+    "FirstName": "Grant",
+    "LastName": "Fritchey",
+    "Bio": "Grant Fritchey has worked for twenty years in IT as a developer and a DBA. He has built systems from the major enterprise to distributed systems to small boutique companies. Grant put three dot.com\u0027s to sleep. He writes SQL Server articles for SQL Server Central and SimpleTalk. Mr. Fritchey is the author of multiple books including, SQL Server Execution Plans and SQL Server Query Performance Tuning. Grant is currently serving on the Board of Directors of the PASS organization, a non-profit professional organization for data professionals. He develops and presents complete structured learning plans to teach SQL Server and T-SQL to developers and other IS personnel.",
+    "SessionIds": [ 3742, 3743, 4134, 4173, 4431, 4434, 4435 ]
+  },
+  {
+    "FirstName": "Hjalmar",
+    "LastName": "Hengstmann",
+    "Bio": "Hjalmar Hengstmann is Project Manager AI Quality NEXT at BMW. He has over 30 years of IT experience in management and software development and has held several operational and technical lead positions. Hjalmar most enjoys being responsible for end-to-end solutions that solve complex problems, and he appreciates working with people who share his passion. Outside of work, he enjoys waterskiing and spending time with his wife and children.",
+    "SessionIds": [ 4777 ]
+  },
+  {
+    "FirstName": "Ike",
+    "LastName": "Ellis",
+    "Bio": "Ike Ellis is the General Manager for the Data \u0026 AI Practice at Solliance.  He is an experienced cloud data architect.  He has been a Microsoft Data Platform MVP since 2011. He co-authored the book \u0022Developing Azure Solutions,\u0022 now in its second edition. He is a popular speaker at SQLBits, PASS Summit, TechEd, Power BI Global Summit, and SQL in the City.  He speaks at user groups, code camps, and SQLSaturdays. He has written courses on SQL Server for Developers, Power BI, SSRS, Azure Databricks, Azure CosmosDB, and Azure Analysis Services. He leads the Power BI and PowerApps User Group in San Diego.  He founded the San Diego Tech Immersion Group, a technical book club and is the co-chair of the San Diego Software Architecture Group. \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: ike@ikeellis.com\u0022\u003E ike@ikeellis.com\u003C/a\u003E \u003Cbr /\u003E Twitter: \u003Ca href=\u0022 https://twitter.com/ike_ellis\u0022\u003E https://twitter.com/ike_ellis\u003C/a\u003E \u003Cbr",
+    "SessionIds": [ 4019, 4020, 4681, 4682, 4683 ]
+  },
+  {
+    "FirstName": "Javier",
+    "LastName": "Lozano",
+    "Bio": "Javier is CEO and Founder of Lozanotek, Inc., a .NET focused software development boutique based in Des Moines, IA. His specializations are in ASP.NET, Azure, system design, and developer mentoring. Javier is also a Certified Scrum Master (CSM), Certified Scrum Product Owner (CSPO), GitHub Certified Trainer, an ASP.NET Insider, Azure Insider, and has been awarded the Microsoft MVP Award for over 12 years for all of his contributions to products and community. For fun, Javier runs and manages the popular .NET Conf virtual conference and the Iowa .NET User Group. He\uFFFDs is an avid supporter of the community and likes to give back by speaking at user groups, local/regional/national .NET events. In his spare time, Javier loves spending time with his family and enjoys writing about himself in the third person. Twitter: \u003Ca href=\u0022http://www.twitter.com/jglozano\u0022\u003E@jglozano\u003C/a\u003E",
+    "SessionIds": [ 4386, 4387, 4219 ]
+  },
+  {
+    "FirstName": "Jeff",
+    "LastName": "Fritz",
+    "Bio": "Jeff Fritz is a Twitch and YouTube partner as well as the founder of the Live Coders stream team and a senior program manager in Microsoft\uFFFDs Developer Division on the .NET Community Team.  The Live Coders is a community of 200 broadcasters making technical content available for free on Twitch through programming, game development, and fun interactions with chat.  You can catch Jeff writing .NET Code on his video stream called \u0027Fritz and Friends\u0027 at twitch.tv/csharpfritz and learn from Jeff\u0027s videos on WintellectNow",
+    "SessionIds": [ 4129, 3992, 4219, 4578, 4669, 4670, 4671 ]
+  },
+  {
+    "FirstName": "Jeremy",
+    "LastName": "Likness",
+    "Bio": "Jeremy Likness is a Senior Program Manager for .NET Data at Microsoft. Jeremy has spent two decades building enterprise software with a focus on line of business web applications. He is the author of several highly acclaimed technical books including Designing Silverlight Business Applications and Programming the Windows Runtime by Example. He has given hundreds of technical presentations during his career as a professional developer that spans two decades. In his free time Jeremy likes to CrossFit, hike, and maintain a 100% plant-based diet.",
+    "SessionIds": [ 2821, 3267, 3269, 3443, 3475, 4684 ]
+  },
+  {
+    "FirstName": "Jerry",
+    "LastName": "Nixon",
+    "Bio": "Jerry Nixon is a Software Engineer \u0026 Lead Architect in Commercial Software Engineering at Microsoft. He has developed and designed software for two decades. Speaker, organizer, teacher, author, and host of DevRadio. He has extensive experience in enterprise architecture, cloud architectures, front-end design, data strategies, and library development. But, most of Jerry\uFFFDs days are spent teaching his three daughters Star Trek character backstories and episode plots.",
+    "SessionIds": [ 4646, 4647 ]
+  },
+  {
+    "FirstName": "Joel",
+    "LastName": "Hulen",
+    "Bio": "Joel Hulen has more than 23 years of experience in the IT field, gaining expertise in a variety of disciplines ranging from systems engineering to cloud-based computing, and everything in between. He has focused on software development for over 18 years, developing and architecting software solutions for many platforms, from single user devices to large-scale enterprise applications and services. His experience draws from supporting and enriching the software profile of financial services companies to the Department of Defense, NASA, as well as a range of businesses from small to large. He leverages his experience to successfully lead teams of developers in following best practices, consulting with companies to help them modernize their applications and take advantage of cloud offerings while controlling their costs, and create software that runs on any device, anywhere in the world.  \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: joelhulen@gmail.com\u0022\u003E joelhulen@gmail.com\u003C/a\u003E \u003Cbr /\u003E Twitter: \u003Ca href=\u0022 https://twitter.com/Joelhulen\u0022\u003E https://twitter.com/Joelhulen\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca href=\u0022 https://www.linkedin.com/in/joel-hulen-ba76b73/\u0022\u003E https://www.linkedin.com/in/joel-hulen-ba76b73a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3402, 3417, 3389, 3670, 3674, 3675, 4017, 4018, 4679, 4680 ]
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Pocknell",
+    "Bio": "John Pocknell is a senior market strategist at Quest Software and part of the product marketing team. Based at the European headquarters in the U.K., John is responsible for synthesizing analyst data and customer interviews in order to create and evangelize solutions-based stories and messaging which relate to major IT initiatives for our extensive portfolio of database products, worldwide. He has been with Quest Software since 2000, working in the database design, development and deployment product areas and spent over 10 years as product manager for the Toad product line. John has been successfully evangelizing Toad and other database solutions at various conferences and user groups around the world for the last 20 years as well as writing blogs and technical papers both internally and for the media.\n\u003Cbr /\u003E\u003Cbr /\u003E\nJohn has worked in IT for more than 30 years, most of that time in Oracle application design and development. He is a qualified aeronautical engineer with more than 10 years of experience in provisioning IT consultancy services and implementing quality assurance systems to ISO 9001.",
+    "SessionIds": [ 4677 ]
+  },
+  {
+    "FirstName": "Jon",
+    "LastName": "Galloway",
+    "Bio": "Senior Program Manager -- .NET, Xamarin \u0026 XAML Tooling",
+    "SessionIds": [ 4689, 4690 ]
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "Guadagno",
+    "Bio": "Joe Guadagno is a Director of Engineering at Quicken Loans, the nation\uFFFDs largest mortgage lender, which is based in Detroit, Michigan. He has been writing software for over 20 years and has been an active member of the .NET community, serving as a Microsoft MVP in .NET for over 10 years. At Quicken Loans, he leads 3 software development teams building and modernizing our internal services. He has spoken through the United States and at international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto:jguadagno@hotmail.com\u0022\u003E jguadagno@hotmail.com\u003C/a\u003E \u003Cbr /\u003ELinkedIn: \u003Ca href=\u0022https://www.linkedin.com/in/josephguadagno/\u0022\u003Ehttps://www.linkedin.com/in/josephguadagno/\u003C/a\u003E \u003Cbr /\u003EBlog: \u003Ca href=\u0022 https://www.josephguadagno.net\u0022\u003E https://www.josephguadagno.net\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022https://twitter.com/jguadagno\u0022\u003Ehttps://twitter.com/jguadagno\u003C/a\u003E \u003Cbr /\u003EFacebook: \u003Ca href=\u0022https://www.facebook.com/JosephGuadagnoNet/\u0022\u003Ehttps://www.facebook.com/JosephGuadagnoNet/\u003C/a\u003E",
+    "SessionIds": [ 3244, 3245, 3714, 3715, 4076, 4077, 4333, 4337, 4344 ]
+  },
+  {
+    "FirstName": "Josh",
+    "LastName": "Luedeman",
+    "Bio": "Josh is a Senior Service Engineer in Azure Engineering on the Azure CXP FastTrack Product Group at Microsoft, focusing on Data Platform and Analytics solutions in the cloud. He is a regular speaker at Live360, Microsoft Ignite, Microsoft Build, Code on the Beach, and other IT conferences. He has worked in IT for over 15 years holding positions in Application Support, Database Administration, and Business Intelligence, in industries like Higher Education, Consulting, Manufacturing, and Software Development.",
+    "SessionIds": [ 4399, 4496 ]
+  },
+  {
+    "FirstName": "Julia",
+    "LastName": "Liuson",
+    "Bio": "As Corporate Vice President of Microsoft\uFFFDs Developer Division, Julia Liuson leads the technical and business strategy, product development and engineering teams for Visual Studio, Visual Studio Code, and .NET Framework - including all programming languages, user interface, tools for building Azure, AI, mobile and Windows oriented applications. Previously, Julia has served a variety of leadership roles on product and engineering in the Microsoft Visual Studio product line, including leading the effort to make the .NET platform open source and cross platform. She started at Microsoft after graduation in 1992 and began her career as a software design engineer, working on Office clients, and various developer-oriented products during her tenure. Julia is a strong advocate of diversity in the workplace and a champion of women in STEM disciplines. She was the first woman promoted to Corporate Vice President of Development at Microsoft. She received the Asian American Executive of the Year award in 2013.",
+    "SessionIds": [ 4159 ]
+  },
+  {
+    "FirstName": "Juval",
+    "LastName": "Lowy",
+    "Bio": "Juval Lowy is the founder of IDesign and a master software architect. Over the past 20 years, Juval has led the industry in architecture and project design with some of his ideas such as microservices serving as the foundation of software design and development. Juval has helped countless companies deliver quality software on schedule and on budget, sharing his insights, techniques, and breakthroughs, in architecture, project design, development process, and technology. Juval participated in the Microsoft internal strategic design reviews and is a frequent speaker at the major international software development conferences. Juval published several bestsellers, and his recent book is \u003Ca href=\u0022https://www.amazon.com/dp/0136524036\u0022\u003ERighting Software\u003C/a\u003E (Addison-Wesley, 2019). Juval published numerous articles, regarding almost every aspect of modern software development and architecture. Juval conducts Master Classes around the world, teaching thousands of professionals the skills required of modern software architects and how to take an active role in design, process, and technology. Microsoft recognized Juval as a Software Legend as one of the world\u0027s top experts and industry leaders.",
+    "SessionIds": [ 3993, 4080, 4170, 4640, 4641 ]
+  },
+  {
+    "FirstName": "Kathleen",
+    "LastName": "Dollard",
+    "Bio": "Kathleen Dollard loves to code and loves to teach and talk about code. She\u0027s written tons of articles, a book, and spoken around the world. She\uFFFDs on the .NET Core Team at Microsoft where she works on the .NET Core CLI and SDK and managed languages (Visual Basic.NET and C#). She\u0027s always ready to help developers take the next step in exploring the wonderful world we call code.",
+    "SessionIds": [ 4042, 4060, 4061, 4167, 4581, 4666 ]
+  },
+  {
+    "FirstName": "Kendra",
+    "LastName": "Havens",
+    "Bio": "Kendra Havens is a program manager at Microsoft on the .NET and Visual Studio team. Her focus is developer productivity and the testing experience in Visual Studio. You may recognize her from videos on .NET Core, VS Code, Visual Studio tooling, and Docker. In addition to an unruly enthusiasm for technology, Kendra loves reading and camping.",
+    "SessionIds": [ 4167, 4581 ]
+  },
+  {
+    "FirstName": "Kyle",
+    "LastName": "Bunting",
+    "Bio": "Kyle is an experienced Azure architect with specific data engineering expertise in Data Factory, Azure Databricks and other services from the Azure Data Platform. He is trusted by Microsoft\uFFFDs Big Data team to create the labs used by customers worldwide.  \u003Cbr /\u003E\u003Cbr /\u003EEmail: \u003Ca href=\u0022mailto: kyle@solliance.net\u0022\u003E kyle@solliance.net\u003C/a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3348, 3349, 3667, 3668, 3669, 4006, 4007, 4035, 4184, 4185, 4186 ]
+  },
+  {
+    "FirstName": "Leslie",
+    "LastName": "Richardson",
+    "Bio": "Leslie Richardson is a Program Manager on the Visual Studio Debugging \u0026 Diagnostics Team, where she recently helped design the new managed data breakpoints and watch window search features for Visual Studio 2019. She primarily focuses on \u0022debugging\u0022 developers\u0027 pain points and providing a satisfying, productive debugging experience.",
+    "SessionIds": [ 4754 ]
+  },
+  {
+    "FirstName": "Lino",
+    "LastName": "Tadros",
+    "Bio": "Alain \u0022Lino\u0022 Tadros is a Cloud Architect and Experienced Trainer at Solliance specializing in AI, Machine Learning and IoT. Previously, President \u0026 CEO of Falafel Software, a Silicon Valley based company, dedicated to providing world-class consulting, training, and software development for small, medium, and enterprise level businesses. Prior to founding Falafel, Lino was a well respected member of the development team at Borland for Delphi and C\u002B\u002BBuilder. Lino has been awarded Microsoft MVP status 15 years in a row for his numerous contributions to the development community and is currently a Microsoft Regional Director. He is an expert in AI \u0026 Machine Learning, IoT, .NET, Azure, ASP.NET, MVC, iOS, Android, Xamarin, Sitefinity and TestComplete. Lino is an industry renowned speaker and has given numerous presentations in 54 countries since 1994. He currently sits on the Board of Directors of 3 Silicon Valley corporations.  \u003Cbr /\u003E\u003Cbr /\u003E Blog: \u003Ca href=\u0022 http://www.linotadros.com/\u0022\u003E http://www.linotadros.com/\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022 https://twitter.com/linotadros\u0022\u003E https://twitter.com/linotadros\u003C/a\u003E \u003Cbr /\u003E LinkedIn: \u003Ca href=\u0022 https://www.linkedin.com/in/linotadros/\u0022\u003E https://www.linkedin.com/in/linotadros/\u003C/a\u003E \u003Cbr /\u003E Training: \u003Ca href=\u0022 https://www.thetrainingboss.com/\u0022\u003E https://www.thetrainingboss.com/\u003C/a\u003E \u003Cbr /\u003E",
+    "SessionIds": [ 3343, 3344, 3345, 3662, 3663, 3708, 4004, 4013, 4190, 4191, 4208 ]
+  },
+  {
+    "FirstName": "Maddy",
+    "LastName": "Leger",
+    "Bio": "Maddy Leger is a Program Manager at Microsoft on the Xamarin team. She has been with the team since 2018 working on Xamarin tooling. She first worked with the Xamarin team as a Microsoft intern and realized the impact she could have creating amazing developer tools and frameworks. Maddy\u0027s current focus is on making Xamarin.Forms developers more productive than ever.",
+    "SessionIds": [ 4644, 4645 ]
+  },
+  {
+    "FirstName": "Mads",
+    "LastName": "Torgersen",
+    "Bio": "I am the Program Manager for the C# Programming Language. I run the C# language design process and maintain the language specification. I also participate in the design of TypeScript and Visual Basic.",
+    "SessionIds": [ 4667 ]
+  },
+  {
+    "FirstName": "Mark",
+    "LastName": "Miller",
+    "Bio": "Mark Miller is a five-year C# Microsoft MVP alumnus, with strong expertise in decoupled design, plug-in architectures, and great user interfaces. Mark is Chief Architect of the IDE Tools division at Developer Express, and is the visionary force behind CodeRush, and creator of the Science of Great Design courses at deviq.com. Mark streams live C# \u0026 TypeScript coding \u0026 design on Twitch.tv/CodeRushed. Mark is a top-ranked speaker at conferences around the world and has been creating tools for software developers for almost four decades.",
+    "SessionIds": [ 4369, 4370, 4371, 4372 ]
+  },
+  {
+    "FirstName": "Mathew",
+    "LastName": "Phan",
+    "Bio": "Mathew Phan began his career as a technical support engineer for Toad soon after graduating from the University of California, Irvine, where he obtained a bachelor\u0027s degree in computer and information science. Mat has devoted his entire 16-year career at Quest with the Toad family of database solutions and held positions helping to shape the direction and growth of Toad. Early in his tenure, his focus was on databases from a developer and analyst point of view. Now as a systems consultant, he continues to\nwork with customers to build effective solutions to solve their database challenges.",
+    "SessionIds": [ 4776 ]
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Callaghan",
+    "Bio": "I began learning to program computers in BASIC on an HP 2000 in high school in 1981. Landed my first paid development job in 1995 doing VHDL and C\u002B\u002B. In 1998 I became an independent development consultant for a variety of large and small companies, including Digital, Compaq, HP, Dell, and others (some of those without leaving the same desk!). Finally settled into a full-time role with Disney Parks, Experiences and Products in 2011, where I am currently doing web and mobile development with mostly web-based frameworks and technologies.",
+    "SessionIds": [ 4375, 4376 ]
+  },
+  {
+    "FirstName": "Mika",
+    "LastName": "Dumont",
+    "Bio": "Mika is a Program Manager at Microsoft on the .NET and Visual Studio team. Her main focus is to help .NET developers be more productive in Visual Studio.",
+    "SessionIds": [ 4772 ]
+  },
+  {
+    "FirstName": "Nick",
+    "LastName": "Pinheiro",
+    "Bio": "Nick Pinheiro is an experienced and award-winning software engineer, technologist, cloud evangelist, and speaker. He is a Senior AI, Cloud \u0026 Software Architect at Microsoft in the Azure Cloud \u0026 AI where he drives digital transformation for Fortune 500 organizations by architecting and developing intelligent, cloud-based, web, and mobile solutions. Known as the authority on integrating Microsoft and Facebook Technologies, Nick is also a Developer Circle Lead for the Northeast region.  Furthermore, Nick is the Founder of \uFFFDModern Appz\uFFFD, a technology startup focusing on providing Social Apps as a Service to the global marketplace.  Nick holds a Master of Science in Computer Information Systems and a Bachelor of Science in Management with a concentration in Electronic Commerce, both from Boston University.",
+    "SessionIds": [ 3433, 3527, 4695 ]
+  },
+  {
+    "FirstName": "Olia",
+    "LastName": "Gavrysh",
+    "Bio": "Olia Gavrysh is a Senior Program Manager on the .NET team.",
+    "SessionIds": [ 4691 ]
+  },
+  {
+    "FirstName": "Pam",
+    "LastName": "Lahoud",
+    "Bio": "Pam Lahoud is a Program Manager in Azure Data, based in Redmond, WA, USA. She has been with Microsoft since 2006 and is currently responsible for Program Management of database engine features for in-market and vNext versions of SQL Server, with a special focus on the Storage Engine and SQL in Azure VM areas. She is passionate about SQL Server performance and has focused on performance tuning and optimization, particularly from the developer perspective, throughout her career.  She is a SQL 2008 MCM with over 20 years of experience working with SQL Server. Twitter: \u003Ca href=\u0022https://twitter.com/SQLGoddess\u0022\u003E@SQLGoddess\u003C/a\u003E",
+    "SessionIds": [ 4440, 4631, 4637 ]
+  },
+  {
+    "FirstName": "Pedro",
+    "LastName": "Lopes",
+    "Bio": "Pedro Lopes is a Principal Program Manager in the Microsoft Azure SQL Server team, based in Redmond, WA, USA. \nHe is currently responsible for Program Management of database engine features for SQL Server and Azure SQL, with special focus on the Relational Engine (Query Processor, Programmability, Performance). He is a regular speaker at conferences and user groups events, blogs about all things SQL at\u003Ca href=\u0022http://aka.ms/sqlserverteam\u0022\u003Ehttp://aka.ms/sqlserverteam\u003C/a\u003E, authored the book \uFFFDLearn T-SQL Querying\uFFFD (https://aka.ms/LearnTSQLQuerying), and several tools in the TigerToolbox on GitHub: AdaptiveIndexDefrag, the BPCheck script for SQL Best Practices and Performance checks, or usp_WhatsUp to get an instant view of performance issues in your workload. You can find Pedro on twitter as \u003Ca href=\u0022http://www.twitter.com/SQLPedro\u0022\u003E@SQLPedro\u003C/a\u003E.",
+    "SessionIds": [ 4440, 4631, 4633, 4637 ]
+  },
+  {
+    "FirstName": "Phil",
+    "LastName": "Hunt",
+    "Bio": "Phil Hunt is Principal Engineer and Architect at Orange Bees, a software development company. He has over 30 years of software development experience, primarily in\nprofessional services, and has held roles including Developer, DBA, Architect, and Director of Client Services. Phil\uFFFDs work includes serving as Software Architect and Lead\nDeveloper on Artificial Quality Next (AIQX) for BMW and Software Architect on South Carolina Business One Stop (SCBOS).\n\u003Cbr /\u003E\u003Cbr /\u003E\nWhile he insists he isn\uFFFDt a perfectionist, Phil strives to build perfect solutions \uFFFD with every project, he seeks the ideal solution for the business, the ideal solution from a software architecture perspective, and the ideal solution for performance and resource utilization. He holds a Bachelor of Science in Computer Engineering from Clemson University. Outside of work, he enjoys amateur sports with his sons and \uFFFDbig, beautiful, customized and lifted\uFFFD 4-wheel drive trucks.",
+    "SessionIds": [ 4777 ]
+  },
+  {
+    "FirstName": "Richard",
+    "LastName": "Campbell",
+    "Bio": "Richard Campbell has more than 30 years of high-tech experience and is both a Microsoft Regional Director and Microsoft Most Valuable Professional (MVP). He has consulted with a number of leading North American organizations; Barnes \u0026 Noble.com, Dow Chemical, Johnson \u0026 Johnson Health Care Services, Reuters, Subaru/Isuzu and the U.S. Air Force. \u003Cbr /\u003E\u003Cbr /\u003E\nIn addition to speaking at conferences around the world, Richard is co-host of \u0022\u003Ca href=\u0022http://dotnetrocks.com/\u0022\u003E.NET Rocks!\u003C/a\u003E, the Internet Audio Talk Show for .NET Developers\u0022 and the host of \u0022\u003Ca href=\u0022http://runasradio.com/\u0022\u003ERunAs Radio\u003C/a\u003E, the Internet Audio Talk Show for IT Professionals.\u0022",
+    "SessionIds": [ 3430, 4152, 4556, 4458 ]
+  },
+  {
+    "FirstName": "Rob",
+    "LastName": "Richardson",
+    "Bio": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, Angular and React. He\uFFFDs a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on his blog at \u003Ca href=\u0022https://robrich.org/presentations\u0022\u003Ehttps://robrich.org/presentations\u003C/a\u003E \u003Cbr /\u003E\u003Cbr  /\u003EEmail: \u003Ca href=\u0022mailto: robrich@robrich.org \u0022\u003E robrich@robrich.org \u003C/a\u003E \u003Cbr /\u003E Twitter: \u003Ca href=\u0022 https://twitter.com/rob_rich \u0022\u003E https://twitter.com/rob_rich \u003C/a\u003E \u003Cbr /\u003E Blog: \u003Ca href=\u0022 https://robrich.org/\u0022\u003E https://robrich.org/",
+    "SessionIds": [ 4082, 4083, 4084, 4196, 4197, 4209, 4346, 4588, 4595, 4652 ]
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Green",
+    "Bio": "Robert Green is an independent developer. He is the host of the Visual Studio Toolbox show on Channel 9 and a speaker at several developer conferences. He retired from Microsoft in the fall of 2019.",
+    "SessionIds": [ 4043, 4081, 4050, 4212, 4214, 4639 ]
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Sincavage",
+    "Bio": "Robert Sincavage is Co-founder and CEO of Orange Bees, a software development company. As a serial entrepreneur, he also built a managed IT services company after a 16-year career with BMW Group. Robert takes a practical approach to software and is focused on solving real-world business problems with technology. He holds a Bachelor of Science in Business and a Graduate Certificate in Project Management from The George Washington University School of Business. Outside of work, he enjoys his \uFFFD79 Jeep and spending time with his family.",
+    "SessionIds": [ 4777 ]
+  },
+  {
+    "FirstName": "Sam",
+    "LastName": "Artioli",
+    "Bio": "Sam is a Technologist, Technology Executive, and Entrepreneur with 20\u002B years of experience in technology. Sam has a solid career foundation, including 7 years at Apple (2000 - 2007) and 5 years with Disney (2011 - 2016), while taking a few years off in-between to travel the world and attempt his first startup. Most recently, Sam lead the technology initiatives at Abe.ai, a white-label chatbot software for community banks and credit unions, which was successfully acquired by Envestnet in January 2019. As of January 2020, Sam joined forces with David Miller to form Start Bootstrap LLC and expand startbootstrap.com. Apart from creating amazing software, Sam also enjoys spending time with his family, capoeira, piano, guitar, running and any form of surf/wake/snow/skate boarding",
+    "SessionIds": [ 4491 ]
+  },
+  {
+    "FirstName": "Sam",
+    "LastName": "Basu",
+    "Bio": "Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover, and a Developer Advocate at Progress Software. With a long developer background, he now spends much of his time advocating modern development platforms \u0026 tools on Microsoft/Telerik technology stacks. His spare times call for travel, fast cars, cricket, and culinary adventures. He is @samidip on the internet.",
+    "SessionIds": [ 4638 ]
+  },
+  {
+    "FirstName": "Sam",
+    "LastName": "Broner",
+    "Bio": "Sam Broner is a Senior Software Engineer on the Fluid Framework team. The Fluid Framework is an open source library that helps developers build collaborative applications by encapsulating sync logic in familiar programming patterns. As part of the Fluid founding team, Sam designed key parts of the client and service architecture. He is now improving the developer experience with feedback from the Fluid community.\n \u003Cbr /\u003E\u003Cbr /\u003E\nIn addition to software, Sam loves to talk about cooking, eating, basketball, public transportation, and life in NYC.",
+    "SessionIds": []
+  },
+  {
+    "FirstName": "Santosh",
+    "LastName": "Hari",
+    "Bio": "Santosh is a public speaker who has spoken at tech events including codecamps and regional/international conferences. He is a Sr Azure Cloud \u0026 AI Consultant @ Microsoft where he leverages his broad Azure skillset with a DevOps focused approach to add more value to companies looking to migrate to the cloud or build cloud-first applications. He was a Microsoft Azure MVP from 2016-2020 and deeply involved with the local community as a leader of the Orlando .NET User Group and co-organizer of the Orlando Codecamp. Santosh was listed in TechBeacon\u0027s DevOps Top 100 for 2018",
+    "SessionIds": [ 4379, 4380 ]
+  },
+  {
+    "FirstName": "Sayed",
+    "LastName": "Hashimi",
+    "Bio": "Sayed Ibrahim Hashimi has a computer engineering degree from the University of Florida. He works at Microsoft as a Senior Program Manager, creating better web \uFFFDdevelopment tools. Prior to joining Microsoft, he was a Microsoft Visual C# MVP. Sayed has written four books on MSBuild.",
+    "SessionIds": [ 4642, 4643 ]
+  },
+  {
+    "FirstName": "Scott",
+    "LastName": "Guthrie",
+    "Bio": "As executive vice president of the Microsoft Cloud and Enterprise group, Scott Guthrie is responsible for the company\u0027s cloud infrastructure, server, database, management and development tools businesses. His engineering team builds Microsoft Azure, Windows Server, SQL Server, Active Directory, System Center, Visual Studio and .NET. \u003Cbr /\u003E\r\nPrior to leading the Cloud and Enterprise group, Guthrie helped lead Microsoft Azure, Microsoft\u0027s public cloud platform. Since joining the company in 1997, he has made critical contributions to many of Microsoft\u0027s key cloud, server and development technologies and was one of the original founders of the .NET project. Guthrie graduated with a bachelor\u0027s degree in computer science from Duke University. He lives in Seattle with his wife and two children.",
+    "SessionIds": [ 4592 ]
+  },
+  {
+    "FirstName": "Scott",
+    "LastName": "Hanselman",
+    "Bio": "Scott Hanselman works for Microsoft as Principal Community Architect for Web Platform and Tools, aiming to spread the good word about developing software, most often on the Microsoft stack. Before this he was the Chief Architect at Corillian Corporation, now a part of Checkfree. For 6\u002B years and before that he was a Principal Consultant at STEP Technology for nearly 7 years. He was also involved in a few things Microsoft-related like the MVP and RD programs and will speak about computers (and other passions) whenever someone will listen to him. He\u0027s written in a few books, most recently with Bill Evjen and Devin Rader on \u003Ca href=\u0022http://www.amazon.com/Professional-ASP-NET-4-C-VB/dp/0470502207/ref=sr_1_1?ie=UTF8\u0026ampampampampampqid=1317759163\u0026ampampampampampsr=8-1\u0022\u003EProfessional ASP.NET\u003C/a\u003E.\u003Cbr /\u003E\n\u003Cbr /\u003E\nBlog: \u003Ca href=\u0022http://www.hanselman.com\u0022\u003Ehttp://www.hanselman.com\u003C/a\u003E\u003Cbr /\u003E\nPodcasts: \u003Ca href=\u0022http://www.hanselminutes.com\u0022\u003Ehttp://www.hanselminutes.com\u003C/a\u003E\u003Cbr/\u003E",
+    "SessionIds": []
+  },
+  {
+    "FirstName": "Scott",
+    "LastName": "Hunter",
+    "Bio": "Scott Hunter works at Microsoft on the .NET platform. This includes the .NET Framework, .NET Core, ASP.NET, Visual Studio Tooling and much more.",
+    "SessionIds": [ 4591, 4668 ]
+  },
+  {
+    "FirstName": "Steve",
+    "LastName": "Smith",
+    "Bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He\u0027s a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\n\u003Cbr /\u003E\u003Cbr /\u003E\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \u0022force multiplier\u0022, amplifying the value of existing development teams. Steve\u0027s client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+    "SessionIds": [ 4576, 4577, 4234, 4235, 4758, 4349 ]
+  },
+  {
+    "FirstName": "Tim",
+    "LastName": "Chapman",
+    "Bio": "Tim Chapman is a Microsoft Certified Master (MCM) and works as a Principal Premier Field Engineer at Microsoft, specializing in performance tuning and high availability. Before coming to Microsoft, Tim was a contributor to the SQL MVP community for three years. Tim has over 16 years of database architecture, programming, and administration experience.\u003Cbr /\u003E\u003Cbr /\u003EBlog: \u003Ca href=\u0022http://blogs.msdn.com/b/timchapman\u0022\u003Ehttp://blogs.msdn.com/b/timchapman\u003C/a\u003E \u003Cbr /\u003ETwitter: \u003Ca href=\u0022http://twitter.com/chapmandew\u0022\u003Ehttp://twitter.com/chapmandew\u003C/a\u003E",
+    "SessionIds": [ 3734, 3967, 4059, 4116, 4177, 4404, 4405, 4446, 4451, 4594 ]
+  },
+  {
+    "FirstName": "Todd",
+    "LastName": "Anglin",
+    "Bio": "Todd Anglin is a Principal Cloud Advocate Lead at Microsoft where he is focused on helping developers succeed with Microsoft Cloud and ensuring Microsoft offers the best cloud platform developer experience. Prior to Microsoft, Todd was VP of Product at Progress, leading engineering teams focused on building modern platforms for app development, including the popular open source mobile platform, NativeScript. Before being acquired by Progress, Todd spent nearly a decade at Telerik, where he helped build the original Telerik Developer Relations team and lead new products to market, including Kendo UI. Todd is an author and frequent speaker on web and mobile app development. Follow Todd @toddanglin for his latest writings and industry insights.",
+    "SessionIds": [ 4779, 4783 ]
+  },
+  {
+    "FirstName": "Udeesha",
+    "LastName": "Gautam",
+    "Bio": "Udeesha Gautam is a Principal Engineering Manager at Microsoft in the Azure Data SQL Tools and Experiences team. She has been at Microsoft for ten years across different teams in Visual Studio, Azure Security, and SQL. With the SQL team she has been working on Database Developer experiences for Windows via DacFx and SSDT and is now working on bringing these experiences to users across multiple platforms through Azure Data Studio. Twitter: \u003Ca href=\u0022https://twitter.com/UdeeshaGautam\u0022\u003E@UdeeshaGautam\u003C/a\u003E",
+    "SessionIds": [ 4651 ]
+  },
+  {
+    "FirstName": "Zoiner",
+    "LastName": "Tejada",
+    "Bio": "Zoiner Tejada has more than 20 years of experience in the software industry as a software architect, CTO, and start-up CEO, with particular expertise in cloud computing, big data, analytics, and machine learning. Beyond managing Solliance, Zoiner spends much of his time leading an expert team of data scientists and data engineers building sophisticated data pipelines for advanced analytics, capturing the best practices and learnings which the team delivers in trainings and hackathons to all sizes of customers. He was among the first to receive a Microsoft Azure MVP (\uFFFDMost Valuable Professional\uFFFD) designation and has since been awarded the MVP for eight consecutive years, including a dual MVP award for Azure and Data Platform and most recently for Artificial Intelligence (AI). Additionally, he is recognized by Microsoft as a Microsoft Regional Director.\u003Cbr\u003E\u003Cbr\u003E\n\nZoiner is the author of a dozen books that range from business strategy to technical references on Azure. His most recent books include the Data Platform Practice Development Playbook and the Artificial Intelligence Practice Development Playbooks from Microsoft which inform Microsoft partners how to build their business and technical strategy to grow, nurture and optimize consulting practices in these areas. He also wrote Mastering Azure Analytics published by O\u0027Reilly (which covers a broad range of analytics solutions from real-time processing with Storm, to Interactive/Batch processing with Spark, the application of Machine Learning and many other Data/Analytics related Azure services). He is also co-author of Exam Ref 70-532: Programming Microsoft\uFFFDs Clouds (the official exam study guide for developers seeking Azure certification), co-author of Developing Microsoft Azure Solutions, and creator of the \uFFFDGoogle Analytics Fundamentals\uFFFD course on Pluralsight.com. He received his BS in computer science from Stanford University.",
+    "SessionIds": [ 3263, 3264, 3639, 3673, 3672, 4021, 4022, 4336 ]
+  }
+]

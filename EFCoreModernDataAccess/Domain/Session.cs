@@ -11,6 +11,7 @@ namespace EFModernDA.Domain
         public DateTimeOffset SessionStart { get; set; }
         public DateTimeOffset SessionEnd { get; set; }
         public IList<Speaker> Speakers { get; set; }
+        public IList<Attendee> Attendees { get; set; }
         public IList<Tag> Tags { get; set; }
 
         public override string ToString() =>

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,5 +6,19 @@
     <LangVersion>9.0</LangVersion>
     <RootNamespace>EFModernDA</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Seed\sessions.json" />
+    <None Remove="Seed\speakers.json" />
+    <None Remove="Seed\surnames.txt" />
+    <None Remove="Seed\tags.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Seed\sessions.json" />
+    <EmbeddedResource Include="Seed\speakers.json" />
+    <EmbeddedResource Include="Seed\surnames.txt" />
+    <EmbeddedResource Include="Seed\tags.txt" />
+  </ItemGroup>
 
 </Project>

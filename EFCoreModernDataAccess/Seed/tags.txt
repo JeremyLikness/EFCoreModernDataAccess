@@ -1,0 +1,47 @@
+﻿.NET 6
+.NET MAUI
+3D Printing
+Angular
+API
+ASP.NET Core
+Azure
+Azure Functions
+Azure SQL
+Big Data
+Blazor
+C#
+Artificial Intelligence, AI
+Azure Cosmos DB, Cosmos DB, CosmosDB
+Data Lake
+Data Science
+Debugger
+DevOps
+Diagnostics
+Docker
+EF Core, Entity Framework
+GitHub
+IoT, Internet of Things
+JavaScript
+JSON
+Kubernetes, AKS
+Lambda
+Machine Learning, ML
+Microservices
+Microsoft 365, M365
+Microsoft Graph
+Microsoft MVP, MVP
+NoSQL
+PostgreSQL
+Powershell
+Progressive Web Apps, PWA
+Project Tye
+React
+Sharepoint
+Spark
+SQL Server
+Static Web Apps, Static Web
+TempDB
+Visual Studio
+Vue
+Xamarin
+YAML
