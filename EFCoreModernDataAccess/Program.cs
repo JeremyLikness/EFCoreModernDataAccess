@@ -1,6 +1,7 @@
 ﻿using EFModernDA.DataAccess;
 using EFModernDA.Queries;
 using EFModernDA.Seed;
+using EFModernDA.Updates;
 using Microsoft.EntityFrameworkCore;
 using System;
 
@@ -37,4 +38,9 @@ Console.WriteLine("Database loaded.");
 
 // ======================================================================
 // advanced queries
-await AdvancedQueries.RunAsync(options);
+// await AdvancedQueries.RunAsync(options);
+
+// ======================================================================
+// updates
+await UpdateExamples.RunAsync(options);
+

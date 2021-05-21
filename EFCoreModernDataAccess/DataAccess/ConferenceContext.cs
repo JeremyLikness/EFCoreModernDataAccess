@@ -33,6 +33,10 @@ namespace EFModernDA.DataAccess
                 .HasMany(t => t.Speakers)
                 .WithMany(sp => sp.Tags);
 
+            modelBuilder.Entity<Tag>()
+                .Property(t => t.Name)
+                .IsConcurrencyToken();
+
             base.OnModelCreating(modelBuilder);
         }
     }
