@@ -1,21 +1,33 @@
-﻿using EFModernDA.DataAccess;
-using EFModernDA.Domain;
-using Microsoft.EntityFrameworkCore;
+﻿// Copyright (c) Jeremy Likness. All rights reserved.
+// Licensed under the MIT License. See LICENSE in the repository root for license information.
+
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using EFModernDA.DataAccess;
+using EFModernDA.Domain;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 namespace EFModernDA.Updates
 {
+    /// <summary>
+    /// Examples of EF Core update capabilities.
+    /// </summary>
     public static class UpdateExamples
     {
+        /// <summary>
+        /// Runs the examples.
+        /// </summary>
+        /// <param name="options">The database options.</param>
+        /// <returns>A <see cref="Task"/>.</returns>
         public static async Task RunAsync(DbContextOptions<ConferenceContext> options)
         {
             foreach (var example in new Func<ConferenceContext, Task>[]
             {
                 SimpleUpdateAsync,
                 GraphUpdateAsync,
-                DisconnectedUpdateAsync
+                DisconnectedUpdateAsync,
             })
             {
                 using var context = GetContext(options);
@@ -26,6 +38,11 @@ namespace EFModernDA.Updates
             await ConcurrencyAsync(options);
         }
 
+        /// <summary>
+        /// A simple update.
+        /// </summary>
+        /// <param name="context">The <see cref="ConferenceContext"/>.</param>
+        /// <returns>A <see cref="Task"/>.</returns>
         private static async Task SimpleUpdateAsync(ConferenceContext context)
         {
             Console.WriteLine("Changing attendee consent.");
@@ -37,20 +54,25 @@ namespace EFModernDA.Updates
             context.Snap();
             await context.SaveChangesAsync();
             Console.WriteLine("Updated.");
-            context.Snap();            
+            context.Snap();
         }
 
+        /// <summary>
+        /// Demonstration of updating entities deeper in the object graph.
+        /// </summary>
+        /// <param name="context">The <see cref="ConferenceContext"/>.</param>
+        /// <returns>A <see cref="Task"/>.</returns>
         private static async Task GraphUpdateAsync(ConferenceContext context)
         {
             Console.WriteLine("Getting speakers with tags and sessions.");
-            
+
             var speakers = await context.Speakers
                 .Include(s => s.Tags)
                 .ThenInclude(t => t.Sessions)
                 .OrderBy(sp => sp.LastName)
                 .Take(5)
                 .ToListAsync();
-               
+
             Console.WriteLine("Modifying the graph...");
 
             var speaker = speakers.First();
@@ -61,14 +83,19 @@ namespace EFModernDA.Updates
 
             var session = speakers.SelectMany(sp => sp.Tags).SelectMany(t => t.Sessions).First();
             session.SessionStart = session.SessionStart.AddMinutes(1);
-            
+
             Console.WriteLine("Adding a new tag...");
             context.Tags.Add(new Tag { Name = "Empty Tag" });
-            
+
             Console.WriteLine("Saving...");
             await context.SaveChangesAsync();
         }
 
+        /// <summary>
+        /// Example of a disconnected (not tracked) update.
+        /// </summary>
+        /// <param name="context">The <see cref="ConferenceContext"/>.</param>
+        /// <returns>A <see cref="Task"/>.</returns>
         private static async Task DisconnectedUpdateAsync(ConferenceContext context)
         {
             Console.WriteLine("Reading a session...");
@@ -81,13 +108,18 @@ namespace EFModernDA.Updates
                 Name = session.Name,
                 Description = session.Description,
                 SessionStart = session.SessionStart,
-                SessionEnd = session.SessionStart.AddMinutes(5) // short session!
+                SessionEnd = session.SessionStart.AddMinutes(5), // short session!
             };
             Console.WriteLine("Attaching and saving the disconnected session...");
             context.Update(disconnectedSession);
             await context.SaveChangesAsync();
         }
 
+        /// <summary>
+        /// Example of concurrency conflict.
+        /// </summary>
+        /// <param name="options">The database options.</param>
+        /// <returns>A <see cref="Task"/>.</returns>
         private static async Task ConcurrencyAsync(DbContextOptions<ConferenceContext> options)
         {
             Console.WriteLine("Acquiring a tag...");
@@ -117,9 +149,18 @@ namespace EFModernDA.Updates
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Take a snapshot of the <see cref="ChangeTracker"/>.
+        /// </summary>
+        /// <param name="context">The <see cref="ConferenceContext"/>.</param>
         private static void Snap(this ConferenceContext context) =>
             Console.WriteLine(context.ChangeTracker.DebugView.LongView);
 
+        /// <summary>
+        /// Gets a <see cref="ConferenceContext"/> instance.
+        /// </summary>
+        /// <param name="options">The database options.</param>
+        /// <returns>The <see cref="ConferenceContext"/>.</returns>
         private static ConferenceContext GetContext(DbContextOptions<ConferenceContext> options)
         {
             var builder = new DbContextOptionsBuilder<ConferenceContext>(options);

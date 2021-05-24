@@ -1,0 +1,42 @@
+<Project>
+  
+  <PropertyGroup>
+    <Copyright>(c) Copyright 2021 Jeremy Likness.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Jeremy Likness</Authors>
+    <LangVersion>9.0</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <DefaultNetCoreTargetFramework>net5.0</DefaultNetCoreTargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <RepositoryUrl>https://github.com/JeremyLikness/EFCoreModernDataAccess</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Product>EF Core for Modern Data Access</Product>
+    <UseFullSemVerForNuGet>true</UseFullSemVerForNuGet>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.333">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+</Project>
